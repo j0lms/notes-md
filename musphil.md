@@ -153,7 +153,7 @@
 - La polimatía (saberes abundantes por seguros que sean) son insuficientes porque no agotan la materia
 - Los saberes, después de desbordar materias cotidianas, concretas, y seguras (de albañiles y artesanos), no son tan seguras
 - ¿De qué trata la filosofía? ¿Cuáles son los contenidos de esa filosofía que al parecer desbordan de conocimiento? ¿Quién la posee?
-- Interpretación metafísica como sabiduría divina (sabiduría de los dioses), filosofía como crítica las pretensiones de los metafísicos presocráticos y Hegel en la Fenomenología del espíritu
+- Interpretación metafísica como sabiduría divina (sabiduría de los dioses), filosofía como crítica a las pretensiones de los metafísicos presocráticos y Hegel en la Fenomenología del espíritu
 - No es suficiente tomar como referencia el saber divino para considerar crítica la expresión filosofía
 - La referencia del saber crítico de la filosofía es la geometría (conocimientos matemáticos o geométricos)
 - Geometría de las ideas
