@@ -239,7 +239,7 @@
 - Teorías filosóficas, científicas, y teológicas
 ### 3a
 - Acepciones antropológicas («filosofía de» como religión, mitología, mitos etiológicos, morales, cosmogonía, »Weltanschauung« «relativismo cultural», escepticismo, filosofía en sentido antropológico «de los antropólogos», la geometría es de todas las culturas, filosofía vinculada a las ciencias, característica positiva de la filosofía griega, respuesta mitológica (Atlas) y filosófica (Anaximandro) a la pregunta «¿por qué la tierra no se cae?»)
-- Acepciones sociológicas («filosofía de» como filosofía mundana, corriente «filosofía que todo el mundo tiene», esteticismo «la filosofía de cada cual vale lo mismo que otro», la filosofía de las tribus bantú, la filosofía de la música de Mazzini «la música mediterránea y la música germánica», la poética de la música de Stravinsky «relación entre orden y tiempo», Doktor Faustus de Mann «música como ambigüedad hecha sistema», tradición académica)
+- Acepciones sociológicas («filosofía de» como filosofía mundana, corriente, «filosofía que todo el mundo tiene», esteticismo «la filosofía de cada cual vale lo mismo que otro», la filosofía de las tribus bantú, la filosofía de la música de Mazzini «la música mediterránea y la música germánica», la poética de la música de Stravinsky «relación entre orden y tiempo», Doktor Faustus de Mann «música como ambigüedad hecha sistema», tradición académica)
 - Tratados de música y tratados de termodinámica
 - Las tres grandes Ideas de la metafísica de Wolfe, Bacon, y Tomás de Aquino (Dios o absoluto, mundo o cosmos, Hombre o homo sapiens)
 - La música vista desde la perspectiva de Dios (Agustín de Hipona, Gerónimo, Hegel, Lutero, Ansermet «pérdida de la ley tonal como muerte de Dios»)
