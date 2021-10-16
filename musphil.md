@@ -135,7 +135,7 @@
 - Heródoto narra Solón
 - Filosofía como procedente de no saber, ignorancia absoluta, duda absoluta originaria (incertidumbre completa)
 - Contradicción-paradoja Socrática «tipo de saberes donde saberlos implica no saber nada»
--Saber de primer grado versus saber de otros saberes
+- Saber de primer grado versus saber de otros saberes
 - La relevancia del odio y el amor en el saber de primer grado «saberes de primer grado odiosos, saberes estéticamente asquerosos»
 - El saber no tiene por qué ser deseado
 - El desear un saber no hace filosofar a nadie
