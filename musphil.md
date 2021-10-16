@@ -151,7 +151,7 @@
 - La demostración del teorema de Tales de Mileto
 - En saber geométrico en la antigua Grecia (Tales, Pitágoras, Anaxágoras, Protágoras, Platón)
 - La polimatía (saberes abundantes por seguros que sean) son insuficientes porque no agotan la materia
-- Los saberes, después de desbordar materias cotidianas, concretas, y seguras (de albañiles y artesanos), no son tan seguras
+- Los saberes, después de desbordar materias cotidianas, concretas, y seguras (de albañiles y artesanos), no son tan seguros
 - ¿De qué trata la filosofía? ¿Cuáles son los contenidos de esa filosofía que al parecer desbordan de conocimiento? ¿Quién la posee?
 - Interpretación metafísica como sabiduría divina (sabiduría de los dioses), filosofía como crítica a las pretensiones de los metafísicos presocráticos y Hegel en la Fenomenología del espíritu
 - No es suficiente tomar como referencia el saber divino para considerar crítica la expresión filosofía
@@ -255,7 +255,7 @@
 - Symploké (discontinuidad) como crítica a Schopenhauer
 ### 3b
 - Música y filosofía desde la lógica de clases
-- Música y filosofía desde el punto de vista de que no tienen nada que ver (clases disyuntas, negación de la «filosofía de» en sentido subjetivo, iconoclasmo, el peligro de la música en el templo según Boecio, la filosofía del arte de Hegel en Croce, los fases del espíritu en Kierkegaard, disyunción y esencias megáricas, ecualización de conjuntos disyuntos estricta «rombos y cuadrados ante los paralelogramos equiláteros» y no estricta «ante los polígonos», estructuras jerárquicas «centralistas» tonales, estatales, y físicas, Attali, base y superestructura en el sociologismo como no ecualización)
+- Música y filosofía desde el punto de vista de que no tienen nada que ver (clases disyuntas, negación de la «filosofía de» en sentido subjetivo, iconoclasmo, el peligro de la música en el templo según Boecio, la filosofía del arte de Hegel en Croce, las fases del espíritu en Kierkegaard, disyunción y esencias megáricas, ecualización de conjuntos disyuntos estricta «rombos y cuadrados ante los paralelogramos equiláteros» y no estricta «ante los polígonos», estructuras jerárquicas «centralistas» tonales, estatales, y físicas, Attali, base y superestructura en el sociologismo como no ecualización)
 - Música y filosofía desde el punto de vista positivo (»Musikwissenschaft«, conjunto de ciencias de la música (psicología, etnología, acústica, etc.), enciclopedia de las ciencias de la música «musicología» no es una categoría propia, interdisciplinariedad como problema filosófico, distinción intorno-entorno «ciencias e historia de la música, disciplinas de ejecución y disciplinas sobre la música-musicología», obertura de Brahms como tesis doctoral (investigación), ciencias que engloban a la musicología como ciencias de entorno, reducción de la filosofía a doxografía)
 - Estética musical como ciencia «sobre» la música
 - Estética y musicología
