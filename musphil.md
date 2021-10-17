@@ -1,7 +1,5 @@
 # Filosofía Materialista de la Música (Gustavo Bueno)
 
-
-
 ### 1a
 - «Todo filósofo es un músico fracasado» (Carnap)
 - Todo el mundo es filósofo
@@ -470,7 +468,7 @@
 - Componente lingüístico
 - Teoría músical como conjunto de conceptos musicales y no musicales (literarios, argumento de una ópera)
 - Involucración entre el análisis musical y literario, valoraciones musicales y literarias
-- La cuestión de la subordinación del texto a la música o vice versa (Glück, Mozart cartas al padre, Strauss sobre Göthe)
+- La cuestión de la subordinación del texto a la música o vice versa (Glück, Mozart en las cartas al padre, Strauss sobre Göthe)
 - Los límites de las artes
 - Teorías psicológicas-psicoanalíticas (Reik, teorías psicoanalíticas de la Sinfonía 2 y 8 de Mahler, Adler y Freud, Sobre Abraham) y sociológicas de la música
 - Implicaciones tonales del acorde de Tristán (Origen del atonalismo)
