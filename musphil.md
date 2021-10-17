@@ -266,7 +266,68 @@
 - Investigaciones de términos y relaciones en música «términos como sonidos nuevos generados electrónica o étnicamente», investigaciones de operaciones en música «instrumentos como operadores y relatores en música» (eje sintáctico)
 - Investigación de las fuentes materiales de los sonidos, fenomenología de la música (eje semántico)
 ### 4a
-
+- Ontología de la música
+- La idea de categoría aplicada a la música
+- Metafísica (Ontología) en Wolffe «metafísica general y metafísica especial (teología natural, cosmología, psicología racional)»
+- Origen editorial del término «metafísica»
+- Sociología de Comte como reorganización total del sistema de las ciencias (eliminación de la teología y la psicología)
+- Acepciones principales del ser en Aristóteles (Sustancia y Dios)
+- Negación de la química en tanto ciencia en Comte
+- La ausencia de la teología en las  Disputaciones Metafísicas de Suárez
+- El ser en general en Gustavo de Mendoza «sobre si el ser es unívoco, análogo, o equívoco»
+- Aristóteles (analogía del ser, «el ser se dice de muchas maneras») contra Jenófanes (escuela eleática, univocidad del ser)
+- Lógica de Hegel como Ontología
+- Ondas sinusoidales (escala lisológica) y timbres (escala morfológica)
+- Música estocástica en Xenakis
+- Géneros lisológicos de materialidad como ontología especial (M1 «aspecto físico-mecánico de la realidad», M2 «experiencias anímicas-psicológicas de hombres o animales, estructura interindividual», M3 «relaciones establecidas fuera del espacio y el tiempo»)
+- Perspectiva morfológica de los géneros de materialidad como ideas propias de la metafísica
+- El placer sensorial de la música como «sombra de los sonidos»
+- La unicidad de las artes en Schumann y Croce
+- Le religión musical de Mauclair
+- La obra musical total en Mazzini y Wagner
+### 4b
+- Categorías como concatenación de conceptos vinculados a contenidos materiales fenoménicos, modulaciones de la idea de ser
+- Geometría sin figuras y música afónica
+- Categorías e ideas como formas puras (tesis Kantiana)
+- La idea de categoría en Aristóteles
+- Teoría de las ideas como descubrimiento de las categorías (tesis de Natorp)
+- Distinción Welt-Natur en Kant
+- Reduccionismo de Schopenhauer
+- «No hay una categoría universal»
+- Origen mundano de las categorías (sobre el habitus), crítica al apriorismo
+- Categoría como predicamento (género y especie de carácter distributivo, árbol de Porfirio)
+- Transitividad de las categorías «lo que se dice del todo, se dice de las partes», «la ciencia consiste en hacer silogismos» (ciencia proposicional, Aristóteles)
+- Árbol zoológico de Linneo, el hombre como categoría, el darwinismo como revolución lógica antes que biológica (categoría de «seres vivientes», idea de biósfera
+- Ciencias modernas como aquellas que han logrado un cierre categorial
+- Estructura constitutiva de las categorías, materia y forma como estructura universal de las categorías (hilemorfismo)
+- Formalismo (Herbart y Hanslick) y materialismo (contenidismo, teoría del sentimiento) en música
+- La idea de formante en Boulez y Stockhausen
+- Nietzsche contra Wagner
+- El contenido (materia) social de la novela en Sartre, «la novela burguesa es mala por definición»
+- La melodía como forma, criterio de supersumatividad «más que la suma de sus elementos», criterio de transportabilidad
+- Partes formales (i.e. sonidos perceptibles, se puede reconocer el todo) y partes materiales (i.e. super e infrasonidos) en música, concepto de diamórfosis (fragmentación en partes formales)
+### 5a
+- El mito de las cigarras en el Fedro
+- Artes liberales (nobles) y serviles, las bellas artes
+- Distinción en entre categorías gnoseológicas, científicas, o tecnológicas (artísticas)
+- La verdad como adecuación del intelecto con la cosa «adaequatio rei et intellectus»
+- Ejemplo de Tarski ('Snow is white' is true if and only if snow is white)
+- Posibilidad de la verdad como adecuación en el teorema de Pitágoras
+- La verdad del teorema de Pitágoras como identidad no empírica, verdad inmanente a los propios términos enlazados del campo de la geometría (cuadrados, triángulos)
+- «Tantas categorías como ciencias que hayan podido cerrar mediante la verdad»
+- La verdad en Música
+- Distinción entre ciencia y arte en Aristóteles (ciencias especulativas y ciencias prácticas)
+- Práctica como poiesis, tecne y poiesis (creación, construcción, producción), «la poesía es más científica que la historia»
+- Práctica como praxis, controlada por la phronesis (práctica del derecho, la moral, lo agible versus lo factible), práctica no tecnológica
+- Ciencia y arte en Platón (verdad y apariencia, «mimesis», Zeuxis y Parrasio)
+- La verdad como criterio estético
+- Categoría de naturaleza y libertad en Kant y Hegel
+- Naturaleza y cultura en Windelband y Rickert
+- Estructura genérica y propia de la categoría musical
+- Emancipación-autonomía de la música en Neubauer
+- Placer sensible y placer intelectual (emancipación)
+- Independencia con respecto al texto de la música instrumental, música vocal en un idioma no conocido (autonomía)
+- La necesidad de la partitura en la orquesta
 ### 5b
 - Precedentes de la Categoricidad de la Música «emancipación versus autonomía»
 - Contenido autónomo como Categoría
@@ -528,9 +589,10 @@
 - [Xenakis, *Formalized Music*](https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf)
 - [Mauclair, *La Religión de la Música*](https://sff4be991601d861d.jimcontent.com/download/version/1367042023/module/6428872352/name/La%20Religion%20de%20la%20Musica.pdf)
 - [Aristóteles, *Metafísica*](https://archive.org/details/aristmetafs/mode/2up)
-- [Neubaer, *Emancipation of music from language*](https://archive.org/details/emancipationofmu0000neub)
+- [Neubauer, *Emancipation of music from language*](https://archive.org/details/emancipationofmu0000neub)
 - [Hegel, *Lectures on Aesthetics*](https://www.marxists.org/reference/archive/hegel/works/ae/index.htm)
 - [Rousseau, *Traités sur la Musique*](https://archive.org/details/imslp-sur-la-musique-rousseau-jean-jacques)
 - [Platón, *Crátilo*](https://archive.org/details/dialogos-ii-gorgias-menexeno-eutidemo-menon-cratilo/page/338/mode/2up)
 - [Saussure, *Course in general linguistics*](https://archive.org/details/courseingenerall00saus/page/n3/mode/2up)
 - [Cooke, *The Language of Music*](https://books.google.com/books/about/The_Language_of_Music.html?id=uci7AAAAIAAJ)
+- [Nietzsche, *The Case of Wagner*](https://www.gutenberg.org/ebooks/25012)
