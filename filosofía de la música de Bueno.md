@@ -25,7 +25,7 @@
 - Estrato de la filosofía nominativa, «horismático», ideas separadas de la realidad cotidiana práctica (institucional)
 - Respuesta a Eustaceo de Cebastes
 - Objeto de la teología dogmática y escolástica
-- James sobré la educación de los místicos
+- James sobre la educación de los místicos
 - Música metasensible, «música de las esferas», euritmia
 - Escolástica de Salamanca y de Christian Wolffe
 - Definición escolástica de la religión como «conjunto de relaciones que vinculan al hombre con Dios»
@@ -564,7 +564,63 @@
 - Música e imperio
 - Gramaticalismo como lenguaje degenerado
 ### 9a
-
+- Homonimia en Aristóteles
+- Lingüística de Saussure
+- Lingüistas y lenguaje en general
+- 18 acepciones de música y 18 de lenguaje
+#### Acepciones de lenguaje
+##### Acepciones antrópicas
+1. Lenguajes positivos específicos
+2. Lengua de los clicks
+3. Lenguas aglutinantes
+4. Lenguajes grabados
+5. Lenguaje como sistema
+6. Lenguaje como habla
+7. Lenguajes agramaticales
+8. Lenguajes embrionarios
+9. Lenguajes encriptados
+##### Acepciones anantrópicas
+10. Lenguaje especializado
+11. Lenguaje mímico
+12. Lenguaje escrito
+13. Lenguaje enseñado a los animales
+14. Lenguaje arquitectónico
+15. Lenguaje zoológico
+16. Lenguaje humano no antrópico
+17. Lenguaje cósmico
+18. Lenguaje molecular
+- El símbolo lingüístico en Miller y Morris
+- Música como lenguaje
+### 9b
+- Las acepciones de tipo A contienen la estructura general del lenguaje
+- Lenguaje como forma y no materia
+- «Sin tacto y vista no se podría hablar»
+- Teoría de la doble articulación del lenguaje
+- La gramática de Tomás de Erfurt
+- Lenguaje natural y escritura en Platón
+- Escritura alfabética como forma de análisis del lenguaje
+- Música primitiva y arquitectura primitiva
+#### Acepciones de música
+##### Acepciones antrópicas
+1. Música hablada
+2. Música cantada
+3. Música desconectada del habla
+4. Música instrumental manual y oral
+5. Música amplificada
+6. Música mecánica
+7. Música distorsionada
+8. Música caótica
+9. Música anegada en la danza
+##### Acepciones anantrópicas
+10. Música ambiental
+11. Música deprivada
+12. Música de partitura
+13. Música infraumbral
+14. Música arquitectónica
+15. Música zoológica
+16. Música genérica
+17. Música concreta
+18. Música cósmica
 ### Misc
 - No-lectura como preferencia revelada
 
