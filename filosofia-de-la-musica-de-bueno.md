@@ -650,4 +650,4 @@
 - [Saussure, *Course in general linguistics*](https://archive.org/details/courseingenerall00saus/page/n3/mode/2up)
 - [Cooke, *The Language of Music*](https://books.google.com/books/about/The_Language_of_Music.html?id=uci7AAAAIAAJ)
 - [Nietzsche, *The Case of Wagner*](https://www.gutenberg.org/ebooks/25012)
-- [Forte, *Introduction to Schenkerian Analysis*](https://archive.org/details/introductiontosc0000fort/mode/2up?view=theater)
+- [Forte, *Introduction to Schenkerian Analysis*](https://archive.org/details/introductiontosc0000fort)
