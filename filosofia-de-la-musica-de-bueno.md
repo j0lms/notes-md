@@ -569,9 +569,8 @@
 - Lingüistas y lenguaje en general
 - 18 acepciones de música y 18 de lenguaje
 #### Acepciones de lenguaje
-##### Acepciones antrópicas
-1. Lenguajes positivos específicos
-2. Lengua de los clicks
+1. Lenguajes positivos específicos (campo de los lingüistas)
+2. Lengua de los clicks (Hadza)
 3. Lenguas aglutinantes
 4. Lenguajes grabados
 5. Lenguaje como sistema
@@ -579,7 +578,6 @@
 7. Lenguajes agramaticales
 8. Lenguajes embrionarios
 9. Lenguajes encriptados
-##### Acepciones anantrópicas
 10. Lenguaje especializado
 11. Lenguaje mímico
 12. Lenguaje escrito
@@ -601,7 +599,6 @@
 - Escritura alfabética como forma de análisis del lenguaje
 - Música primitiva y arquitectura primitiva
 #### Acepciones de música
-##### Acepciones antrópicas
 1. Música hablada
 2. Música cantada
 3. Música desconectada del habla
@@ -611,7 +608,6 @@
 7. Música distorsionada
 8. Música caótica
 9. Música anegada en la danza
-##### Acepciones anantrópicas
 10. Música ambiental
 11. Música deprivada
 12. Música de partitura
@@ -621,6 +617,52 @@
 16. Música genérica
 17. Música concreta
 18. Música cósmica
+### 10a
+- Confrontación crítica de acepciones de lenguaje y acepciones de música
+- Crítica como clasificación
+- Correspondencias aceptables y no aceptables entre lenguaje y música según el criterio de isomorfismo
+- Lenguaje y música como términos análogos
+- El concepto de analogía de desigualdad en Gaetano
+- Traducción en música (Comentarios de Schumann a la romanza sin palabras de Mendelssohn)
+- Metonimia y metáfora en Jakobson
+- Importancia social de la música académica versus la música popular
+- La cuestión de la lingüística en Marr y Stalin
+- Lenguaje escrito y música escrita
+- Escritura como corrupción
+- La danza de las abejas
+- La imitación del canto de los pájaros en Vivaldi, Beethoven
+- Grabación de los cantos de los pájaros (música concreta en Schaeffer)
+- La naturaleza como lenguaje de Dios (Berkeley)
+### 10b
+- Funciones representativa, expresiva, y apelativa del lenguaje (Bühler)
+- La música no es lenguaje (doble articulación, función representativa)
+- La expresión de las emociones en los animales (Darwin) no es lenguaje pero es comunicación
+- El sonido organizado como esencia del lenguaje y la música
+- La distinción entre el lenguaje, la música, y la pintura en el Crátilo, oposición a la onomatopeya
+- Imitación análoga y copia
+- La reproducción de las cosas mediante el lenguaje es independiente de estas
+- Lenguaje como cristalización de pensamiento
+- Música sin sonido como contradicción
+- El lenguaje organiza la representación de las cosas
+- Representación de lo intangible en el lenguaje, mundo teológico
+- Crítica materialista a la metafísica como crítica al lenguaje sin referencia concreta
+- Protolenguaje, unión de la música y el lenguaje
+- Acompañamiento histórico de la música y el lenguaje
+- Canto de trabajo, subordinación de la música al oficio
+- Unión hipostática entre música y lenguaje (Oratorio)
+- Música instrumental y polifonía como origen de la separación entre música y lenguaje
+- Crítica a la polifonía de Vincenzo Galilei
+- Polifonía-instrumentalidad como muestra de la independencia-emancipación de la música con respecto al lenguaje
+- Texto y escala en el Himno de San Juan de Guido D'Arezzo
+- Visión catastrofista, vínculo entre instrumentalidad y atonalidad
+- Música como arte característica de la cultura fáustica
+- Emancipación de la música como origen de la teoría de la música como lenguaje universal
+- Identificación de los sentimientos con la divinidad
+- Música como mecanismo de excitación de los sentimientos
+- La música como lenguaje de los sentimientos es un acoplamiento extrínseco, teología
+- Justificación del consumo de drogas en Huxley, Leary, y Escohotado como teología
+### 11a
+- 
 ### Misc
 - No-lectura como preferencia revelada
 
