@@ -201,7 +201,7 @@
 1. La música como ciencia en el *Musica enchiriadis* «música como ciencia de saber cantar bien» La música como ciencia en Agustín de Hipona, la ciencia de la música no debía tener que ver nada con la técnica-arte (Platonismo, música de las esferas, música divina, música inaudible-insonora-afónica, música «por tu sabia mano gobernada»)
 2. Música como un sistema ordenado de proposiciones sobre el arte en cuestión (la música) La teología dogmática como ciencia, la enseñanza como origen de la ciencia proposicional, arte como transmisible por la enseñanza (a diferencia de la prudencia)
 - Segundos analíticos, Poética de Aristóteles
-- El arte supone la enseñanza, es universal en tanto lo que hace un artista puede hacerlo otro con mayor o menor
+- El arte supone la enseñanza, es universal en tanto lo que hace un artista puede hacerlo otro con mayor o menor destreza
 - Ciencias positivas por antonomasia, ciencias duras, ciencias alfa-operatorias (revolución que marca el cambio entre la Edad Media y la Edad Moderna)
 - Las ciencias humanas o sociales, ciencias beta-operatorias
 - Sobre la dualidad del campo de las ciencias de la música
