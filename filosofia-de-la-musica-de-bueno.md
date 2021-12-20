@@ -5,18 +5,18 @@
 - Todo el mundo es filósofo
 - La música como catarsis-purga (Aristóteles)
 #### 12 Cuestiones sin respuesta:
-1. Cuestión proemial
-2. Cuestión general de implantación
-3. Cuestión particular de implantación
-4. Cuestión de la semanticidad o asemanticidad
-5. Cuestión de la involucración de la música con otras categorías
-6. Cuestión de la racionalidad de las artes
-7. Cuestión de la unidad entre los géneros musicales y de su jerarquía
-8. Cuestión del universalismo o particularismo de la música
-9. Cuestión de la tonalidad
-10. Cuestión del reduccionismo de las estructuras musicales a determinadas estructuras sociológicas-políticas-superestructurales
-11. Cuestión del reduccionismo de las estructuras musicales a la condición de estructuras psicológicas-subjetivas
-12. Cuestión en torno a la posibilidad de una estética de la música «libre de valoración»
+  1. Cuestión proemial
+  2. Cuestión general de implantación
+  3. Cuestión particular de implantación
+  4. Cuestión de la semanticidad o asemanticidad
+  5. Cuestión de la involucración de la música con otras categorías
+  6. Cuestión de la racionalidad de las artes
+  7. Cuestión de la unidad entre los géneros musicales y de su jerarquía
+  8. Cuestión del universalismo o particularismo de la música
+  9. Cuestión de la tonalidad
+  10. Cuestión del reduccionismo de las estructuras musicales a determinadas estructuras sociológicas-políticas-superestructurales
+  11. Cuestión del reduccionismo de las estructuras musicales a la condición de estructuras psicológicas-subjetivas
+  12. Cuestión en torno a la posibilidad de una estética de la música «libre de valoración»
 - Sintagma «filosofía de», filosofía genitiva, rótulo de disciplinas
 - «Filosofía de la religión» como filosofía en genitivo
 - «Teología» como filosofía en nominativo
@@ -80,9 +80,9 @@
 - Gnoseología y ontología
 - La teoría de la gravitación y los métodos de la Física
 - Clasificación gnoseológica fundamental:
-1. Teorías filosóficas sobre la música de orientación positivista
-2. Teorías filosóficas sobre la música de orientación metafísica (Pseudo-Dionisio)
-3. Teorías de la música filosófico-positivas
+  1. Teorías filosóficas sobre la música de orientación positivista
+  2. Teorías filosóficas sobre la música de orientación metafísica (Pseudo-Dionisio)
+  3. Teorías de la música filosófico-positivas
 - Música como «la organización totalmente sistemática y conceptual de los fenómenos sonoros»
 - Música como «todo aquello que cae bajo las disciplinas del arte musical» (Definición de física de Eddington)
 - Música como «orden universal que empieza por la armonía de las esferas»
@@ -198,8 +198,8 @@
 - Las ciencias como procedente de las artes
 - Todas las ciencias vienen de oficios (geometría viene de la mensura, la aritmética viene del comercio, origen de la geometría en Egipto, la química viene de la cocina) 
 - Acepciones de la ciencia musical:
-1. La música como ciencia en el *Musica enchiriadis* «música como ciencia de saber cantar bien» La música como ciencia en Agustín de Hipona, la ciencia de la música no debía tener que ver nada con la técnica-arte (Platonismo, música de las esferas, música divina, música inaudible-insonora-afónica, música «por tu sabia mano gobernada»)
-2. Música como un sistema ordenado de proposiciones sobre el arte en cuestión (la música) La teología dogmática como ciencia, la enseñanza como origen de la ciencia proposicional, arte como transmisible por la enseñanza (a diferencia de la prudencia)
+  1. La música como ciencia en el *Musica enchiriadis* «música como ciencia de saber cantar bien» La música como ciencia en Agustín de Hipona, la ciencia de la música no debía tener que ver nada con la técnica-arte (Platonismo, música de las esferas, música divina, música inaudible-insonora-afónica, música «por tu sabia mano gobernada»)
+  2. Música como un sistema ordenado de proposiciones sobre el arte en cuestión (la música) La teología dogmática como ciencia, la enseñanza como origen de la ciencia proposicional, arte como transmisible por la enseñanza (a diferencia de la prudencia)
 - Segundos analíticos, Poética de Aristóteles
 - El arte supone la enseñanza, es universal en tanto lo que hace un artista puede hacerlo otro con mayor o menor destreza
 - Ciencias positivas por antonomasia, ciencias duras, ciencias alfa-operatorias (revolución que marca el cambio entre la Edad Media y la Edad Moderna)
@@ -337,17 +337,17 @@
 - Dualidad actor-receptor en Música y Arquitectura
 - Realidad suprasubjetiva de la Música Instrumental
 #### Grandes Paradojas de la Música Instrumental a la luz de la Forma y la Materia
-1. El Compositor no escribe Música
-2. Los Sonidos son Objetivos
-3. La Música Natural no es Música
-4. La Forma es el Material de la Orquesta
-5. La Orquesta descompone la Unidad de la Partitura en partes Formales
-6. En el punto de vista del Público resplandece la Unidad
-7. El Compositor se comunica sin mensaje con la Totalidad del Público
-8. La Comunicación conlleva Interpretación Fiel
-9. La Verdad de la Música es la Fidelidad
-10. La Recepción del Público tiene que ver con la Fidelidad de la Obra
-11. La Verdad de la Música no es la Verdad Científica
+  1. El Compositor no escribe Música
+  2. Los Sonidos son Objetivos
+  3. La Música Natural no es Música
+  4. La Forma es el Material de la Orquesta
+  5. La Orquesta descompone la Unidad de la Partitura en partes Formales
+  6. En el punto de vista del Público resplandece la Unidad
+  7. El Compositor se comunica sin mensaje con la Totalidad del Público
+  8. La Comunicación conlleva Interpretación Fiel
+  9. La Verdad de la Música es la Fidelidad
+  10. La Recepción del Público tiene que ver con la Fidelidad de la Obra
+  11. La Verdad de la Música no es la Verdad Científica
 - La Evasión del Cromatismo y las relaciones Verdaderas y Falsas
 - La Orquesta Solipcista de Adorno
 - La no-verdad y la Recepción de la Música Atonal
@@ -428,11 +428,11 @@
 - La música como campo gnoseológico
 - La musicología como el conjunto de disciplinas que tratan sobre el campo gnoseológico de la música
 #### Los cinco estratos circulares del campo gnoseológico de la música
-1. El fenómeno
-2. Los conceptos
-3. Las ideas
-4. Las teorías (Concatenación-sistematización de conceptos)
-5. Las doctrinas (Concatenación-sistematización de ideas)
+  1. El fenómeno
+  2. Los conceptos
+  3. Las ideas
+  4. Las teorías (Concatenación-sistematización de conceptos)
+  5. Las doctrinas (Concatenación-sistematización de ideas)
 - La felicidad como campo gnoseológico
 - La idea de fenómeno en los griegos y el idealismo alemán
 - Los conceptos siempre se dan en fenómenos
@@ -534,8 +534,8 @@
 - El lenguaje como homónimo (Categorías de Aristóteles)
 - Homonimia, conceptos equívocos, conceptos conónimos (análogos de atribución), conceptos análogos
 - Dos clases de analogía tradicional:
-1. Analogía de proporción compuesta (Chino y español como lenguajes totalmente diferentes)
-2. Analogía de proporción simple
+  1. Analogía de proporción compuesta (Chino y español como lenguajes totalmente diferentes)
+  2. Analogía de proporción simple
 - El lenguaje es aquello de lo que tratan los lingüistas (razones gnoseológicas, lenguaje ordinario, lenguaje positivo)
 - El lenguaje ordinario no existe, el lenguaje no es universal
 - La religión natural-universal según Rousseau «está en los corazones de todos»
@@ -569,24 +569,24 @@
 - Lingüistas y lenguaje en general
 - 18 acepciones de música y 18 de lenguaje
 #### Acepciones de lenguaje
-1. Lenguajes positivos específicos (campo de los lingüistas)
-2. Lengua de los clicks (Hadza)
-3. Lenguas aglutinantes
-4. Lenguajes grabados
-5. Lenguaje como sistema
-6. Lenguaje como habla
-7. Lenguajes agramaticales
-8. Lenguajes embrionarios
-9. Lenguajes encriptados
-10. Lenguaje especializado
-11. Lenguaje mímico
-12. Lenguaje escrito
-13. Lenguaje enseñado a los animales
-14. Lenguaje arquitectónico
-15. Lenguaje zoológico
-16. Lenguaje humano no antrópico
-17. Lenguaje cósmico
-18. Lenguaje molecular
+  1. Lenguajes positivos específicos (campo de los lingüistas)
+  2. Lengua de los clicks (Hadza)
+  3. Lenguas aglutinantes
+  4. Lenguajes grabados
+  5. Lenguaje como sistema
+  6. Lenguaje como habla
+  7. Lenguajes agramaticales
+  8. Lenguajes embrionarios
+  9. Lenguajes encriptados
+  10. Lenguaje especializado
+  11. Lenguaje mímico
+  12. Lenguaje escrito
+  13. Lenguaje enseñado a los animales
+  14. Lenguaje arquitectónico
+  15. Lenguaje zoológico
+  16. Lenguaje humano no antrópico
+  17. Lenguaje cósmico
+  18. Lenguaje molecular
 - El símbolo lingüístico en Miller y Morris
 - Música como lenguaje
 ### 9b
@@ -599,24 +599,24 @@
 - Escritura alfabética como forma de análisis del lenguaje
 - Música primitiva y arquitectura primitiva
 #### Acepciones de música
-1. Música hablada
-2. Música cantada
-3. Música desconectada del habla
-4. Música instrumental manual y oral
-5. Música amplificada
-6. Música mecánica
-7. Música distorsionada
-8. Música caótica
-9. Música anegada en la danza
-10. Música ambiental
-11. Música deprivada
-12. Música de partitura
-13. Música infraumbral
-14. Música arquitectónica
-15. Música zoológica
-16. Música genérica
-17. Música concreta
-18. Música cósmica
+  1. Música hablada
+  2. Música cantada
+  3. Música desconectada del habla
+  4. Música instrumental manual y oral
+  5. Música amplificada
+  6. Música mecánica
+  7. Música distorsionada
+  8. Música caótica
+  9. Música anegada en la danza
+  10. Música ambiental
+  11. Música deprivada
+  12. Música de partitura
+  13. Música infraumbral
+  14. Música arquitectónica
+  15. Música zoológica
+  16. Música genérica
+  17. Música concreta
+  18. Música cósmica
 ### 10a
 - Confrontación crítica de acepciones de lenguaje y acepciones de música
 - Crítica como clasificación
