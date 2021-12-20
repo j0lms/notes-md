@@ -4,7 +4,7 @@
 - «Todo filósofo es un músico fracasado» (Carnap)
 - Todo el mundo es filósofo
 - La música como catarsis-purga (Aristóteles)
-#### 12 Cuestiones sin respuesta:
+- 12 Cuestiones sin respuesta:
   1. Cuestión proemial
   2. Cuestión general de implantación
   3. Cuestión particular de implantación
@@ -336,7 +336,7 @@
 - La Formación de los Intérpretes
 - Dualidad actor-receptor en Música y Arquitectura
 - Realidad suprasubjetiva de la Música Instrumental
-#### Grandes Paradojas de la Música Instrumental a la luz de la Forma y la Materia
+- Grandes Paradojas de la Música Instrumental a la luz de la Forma y la Materia
   1. El Compositor no escribe Música
   2. Los Sonidos son Objetivos
   3. La Música Natural no es Música
@@ -427,7 +427,7 @@
 - La idea de evolución aplicada a las categorías
 - La música como campo gnoseológico
 - La musicología como el conjunto de disciplinas que tratan sobre el campo gnoseológico de la música
-#### Los cinco estratos circulares del campo gnoseológico de la música
+- Los cinco estratos circulares del campo gnoseológico de la música
   1. El fenómeno
   2. Los conceptos
   3. Las ideas
@@ -568,7 +568,7 @@
 - Lingüística de Saussure
 - Lingüistas y lenguaje en general
 - 18 acepciones de música y 18 de lenguaje
-#### Acepciones de lenguaje
+- Acepciones de lenguaje
   1. Lenguajes positivos específicos (campo de los lingüistas)
   2. Lengua de los clicks (Hadza)
   3. Lenguas aglutinantes
@@ -598,7 +598,7 @@
 - Lenguaje natural y escritura en Platón
 - Escritura alfabética como forma de análisis del lenguaje
 - Música primitiva y arquitectura primitiva
-#### Acepciones de música
+- Acepciones de música
   1. Música hablada
   2. Música cantada
   3. Música desconectada del habla
