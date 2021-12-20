@@ -16,7 +16,7 @@
 9. Cuestión de la tonalidad
 10. Cuestión del reduccionismo de las estructuras musicales a determinadas estructuras sociológicas-políticas-superestructurales
 11. Cuestión del reduccionismo de las estructuras musicales a la condición de estructuras psicológicas-subjetivas
-12. Cuestión en torno a la posibilidad de una estética de la música «libre de valoración»)
+12. Cuestión en torno a la posibilidad de una estética de la música «libre de valoración»
 - Sintagma «filosofía de», filosofía genitiva, rótulo de disciplinas
 - «Filosofía de la religión» como filosofía en genitivo
 - «Teología» como filosofía en nominativo
