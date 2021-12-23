@@ -27,7 +27,7 @@
 - Objeto de la teología dogmática y escolástica
 - James sobre la educación de los místicos
 - Música metasensible, «música de las esferas», euritmia
-- Escolástica de Salamanca y de Christian Wolffe
+- Escolástica de Salamanca y de Christian Wolff
 - Definición escolástica de la religión como «conjunto de relaciones que vinculan al hombre con Dios»
 - Las justicia desde la perspectiva aretaica
 - La creencia en Dios en el ancien régime
@@ -94,7 +94,7 @@
 ### 2
 - Ciencia y filosofía definidas por sus relaciones recíprocas
 - Aproximación gnoseológica de la filosofía de la música
-- Baumgarten y Wolfe
+- Baumgarten y Wolff
 - Lo sensible y lo inteligible en Baumgarten (gnoseología inferior y superior)
 - Percepción apotética «fuera de mí» (visión, oído) y paratética (tacto)
 - Artes paratéticas y Artes Bellas
@@ -233,13 +233,13 @@
 - Correspondencia entre pasiones y emociones con la música
 - Arte e improvisación
 - Prólogo del *Análisis Schenkeriano* de Forte y Gilbert
-- Posibilidad de una ciencia de la música capaz de englobarla 
+- Posibfilidad de una ciencia de la música capaz de englobarla 
 - Teorías filosóficas, científicas, y teológicas
 ### 3a
 - Acepciones antropológicas («filosofía de» como religión, mitología, mitos etiológicos, morales, cosmogonía, »Weltanschauung« «relativismo cultural», escepticismo, filosofía en sentido antropológico «de los antropólogos», la geometría es de todas las culturas, filosofía vinculada a las ciencias, característica positiva de la filosofía griega, respuesta mitológica (Atlas) y filosófica (Anaximandro) a la pregunta «¿por qué la tierra no se cae?»)
 - Acepciones sociológicas («filosofía de» como filosofía mundana, corriente, «filosofía que todo el mundo tiene», esteticismo «la filosofía de cada cual vale lo mismo que otro», la filosofía de las tribus bantú, la filosofía de la música de Mazzini «la música mediterránea y la música germánica», la poética de la música de Stravinsky «relación entre orden y tiempo», Doktor Faustus de Mann «música como ambigüedad hecha sistema», tradición académica)
 - Tratados de música y tratados de termodinámica
-- Las tres grandes Ideas de la metafísica de Wolfe, Bacon, y Tomás de Aquino (Dios o absoluto, mundo o cosmos, Hombre o homo sapiens)
+- Las tres grandes Ideas de la metafísica de Wolff, Bacon, y Tomás de Aquino (Dios o absoluto, mundo o cosmos, Hombre o homo sapiens)
 - La música vista desde la perspectiva de Dios (Agustín de Hipona, Gerónimo, Hegel, Lutero, Ansermet «pérdida de la ley tonal como muerte de Dios»)
 - La música vista desde la perspectiva del mundo (Pitagóricos, Filolao «música como expresión de la armonía del universo», Kepler, Aristóteles y la crítica a la idea de música de las esferas, Schelling)
 - La música vista desde la perspectiva del hombre (Adorno sobre Beethoven «la música como expresión del hombre», crítica a la filosofía de la música de García Bacca «de la palabra hombre en el credo de las misas», Schoenberg «revelación de una forma de vida más elevada de la humanidad»)
@@ -266,7 +266,7 @@
 ### 4a
 - Ontología de la música
 - La idea de categoría aplicada a la música
-- Metafísica (Ontología) en Wolffe «metafísica general y metafísica especial (teología natural, cosmología, psicología racional)»
+- Metafísica (Ontología) en Wolff «metafísica general y metafísica especial (teología natural, cosmología, psicología racional)»
 - Origen editorial del término «metafísica»
 - Sociología de Comte como reorganización total del sistema de las ciencias (eliminación de la teología y la psicología)
 - Acepciones principales del ser en Aristóteles (Sustancia y Dios)
