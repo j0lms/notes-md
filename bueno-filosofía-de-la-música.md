@@ -1,4 +1,4 @@
-# Filosofía Materialista de la Música (Gustavo Bueno)
+# Filosofía Materialista de la Música de [[Gustavo Bueno]]
 
 ### 1a
 - «Todo filósofo es un músico fracasado» (Carnap)
