@@ -14,3 +14,5 @@
   - [[the philosophy of improvisation]]
   - [[summa technologiae]]
   - [ ] [[darwins dangerous idea]]
+  - [[doing good better]]
+  - [[impro]]
