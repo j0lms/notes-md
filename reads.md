@@ -1,4 +1,4 @@
-- A [[reading list]]
+- A [[reading list]]. [ ] in progress, [x] finished.
   - [[elinor ostrom]]
     - [[governing the commons]]
   - [[david deutsch]] 
@@ -45,9 +45,8 @@
     - [[sobre el fundamento de la música]]
   - [[georg wilhelm friedrich hegel]]
     - [[lectures on aesthetics]]
-  - [[allen forte]]
-    - [[introduction to schenkerian analysis]]
   - [[john neubauer]]
     - [[the emancipation of music from language]] 
   - [[friedrich nietzsche]]
     - [[the case of wagner]]
+
