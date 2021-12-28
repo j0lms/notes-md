@@ -1,4 +1,4 @@
-- A [[reading list]]. [ ] in progress, [x] finished.
+- A [[reading list]]
   - [[elinor ostrom]]
     - [[governing the commons]]
   - [[david deutsch]] 
@@ -49,4 +49,6 @@
     - [[the emancipation of music from language]] 
   - [[friedrich nietzsche]]
     - [[the case of wagner]]
-
+ 
+- [ ] in progress
+- [x] finished.
