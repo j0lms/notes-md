@@ -2,4 +2,4 @@
   - [[the philosophy of improvisation]]
   - [[summa technologiae]]
   - [[darwins dangerous idea]]
-  [x] [[utopia for realists]]
+  - [x] [[utopia for realists]]
