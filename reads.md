@@ -1,5 +1,5 @@
 - A list
-  - [] [[the philosophy of improvisation]]
-  - [] [[summa technologiae]]
-  - [] [[darwins dangerous idea]]
-  - [x] [[utopia for realists]]
+  - [[the philosophy of improvisation]]
+  - [[summa technologiae]]
+  - [[darwins dangerous idea]]
+  [x] [[utopia for realists]]
