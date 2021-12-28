@@ -51,4 +51,4 @@
     - [[the case of wagner]]
  
 - [ ] in progress
-- [x] finished.
+- [x] finished
