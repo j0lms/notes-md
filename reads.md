@@ -50,6 +50,8 @@
     - [[the age of em]]
   - [[igor stravinsky]]
     - [[poetics of music]]
+  - [[thomas more]]
+    - [[utopia]]
   - [[david hackett]]
     - [[albion's seed]]
   - [[benedetto croce]]
