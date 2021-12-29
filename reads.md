@@ -147,6 +147,8 @@
     - [[zen and the art of motorcycle maintenance]]
   - [[henry jenkins]]
     - [[convergence culture]]
+  - [[john lynch]]
+    - [[simón bolívar]]
 
 - legend
   - [ ] in progress 
