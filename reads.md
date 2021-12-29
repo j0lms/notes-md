@@ -77,6 +77,8 @@
     - [[the origin of consciousness in the breakdown of the bicameral mind]]
   - [[edward bernays]]
     - [[propaganda]]
+  - [[jaegwon kim]]
+    - [[philosophy of mind]]
   - [[haruki murakami]]
     - [[kafka on the shore]]
   - [[giuseppe mazzini]]
