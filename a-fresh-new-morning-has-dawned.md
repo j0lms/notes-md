@@ -1,3 +1,3 @@
 - A [[mistake]]
-  - [[oops is the sound we make when we improve]]
+  - [[oops is the sound we make]]
   - [[serendipity]]
