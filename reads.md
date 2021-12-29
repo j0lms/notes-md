@@ -112,6 +112,8 @@
     - [[i am a strange loop]]
   - [[william whyte]]
     - [[the organization man]]
+  - [[nicholas carr]]
+    - [[the shallows]]
   - [[david anthony]]
     - [[the horse the wheel and language]]
   - [[eugene gendlin]]
@@ -139,6 +141,8 @@
     - [[the master and his emissary]]
   - [[robert pirsig]]
     - [[zen and the art of motorcycle maintenance]]
+  - [[henry jenkins]]
+    - [[convergence culture]]
 
 - legend
   - [ ] in progress 
