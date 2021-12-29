@@ -62,5 +62,6 @@
   - [[nick bostrom]]
     - [[superintelligence]]
 
-[ ] in progress
-[x] finished
+- legend
+  - [ ] in progress 
+  - [x] finished
