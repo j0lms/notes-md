@@ -1,6 +1,6 @@
 - A [[reading list]]
   - [[elinor ostrom]]
-    - [[governing the commons]]
+    - [ ] [[governing the commons]]
   - [[david deutsch]] 
     - [[the beginning of infinity]]
   - [[james scott]]
@@ -35,10 +35,14 @@
     - [[poetics of music]]
   - [[benedetto croce]]
     - [[aesthetic as science of expression and general linguistic]]
+  - [[william burroughs]] 
+    - [[junky]]
   - [[eduard hanslick]]
     - [[the beautiful in music]]
   - [[susanne langer]]
     - [[philosophy in a new key]]
+  - [[haruki murakami]]
+    - [[kafka on the shore]]
   - [[giuseppe mazzini]]
     - [[the philosophy of music]]
   - [[severino boecio]]
@@ -49,6 +53,14 @@
     - [[the emancipation of music from language]] 
   - [[friedrich nietzsche]]
     - [[the case of wagner]]
- 
-- [ ] in progress
-- [x] finished
+  - [[thomas mann]]
+    - [[doctor faustus]]
+  - [[mihaly csikszentmihalyi]]
+    - [[flow]] 
+  - [[cormac mccarthy]
+    - [[blood meridian]]
+  - [[nick bostrom]]
+    - [[superintelligence]]
+
+[ ] in progress
+[x] finished
