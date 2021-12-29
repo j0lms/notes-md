@@ -10,6 +10,8 @@
     - [[bolo bolo]]
   - [[toby ord]]
     - [[the precipice]]
+  - [[richard dawkins]]
+    - [[the selfish gene]]
   - [[christopher alexander]]
     - [[a pattern language]]
   - [[roger penrose]]
