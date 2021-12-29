@@ -52,6 +52,8 @@
     - [[albion's seed]]
   - [[benedetto croce]]
     - [[aesthetic as science of expression and general linguistic]]
+  - [[sean carroll]]
+    - [[the big picture]]
   - [[william burroughs]] 
     - [[junkie]]
   - [[eduard hanslick]]
