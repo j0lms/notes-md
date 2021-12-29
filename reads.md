@@ -36,7 +36,7 @@
   - [[benedetto croce]]
     - [[aesthetic as science of expression and general linguistic]]
   - [[william burroughs]] 
-    - [[junky]]
+    - [[junkie]]
   - [[eduard hanslick]]
     - [[the beautiful in music]]
   - [[susanne langer]]
