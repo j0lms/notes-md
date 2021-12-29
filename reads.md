@@ -57,7 +57,7 @@
     - [[doctor faustus]]
   - [[mihaly csikszentmihalyi]]
     - [[flow]] 
-  - [[cormac mccarthy]
+  - [[cormac mccarthy]]
     - [[blood meridian]]
   - [[nick bostrom]]
     - [[superintelligence]]
