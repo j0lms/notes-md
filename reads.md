@@ -162,6 +162,8 @@
     - [[convergence culture]]
   - [[john lynch]]
     - [[simón bolívar]]
+  - [[philip kindred dick]]
+    - [[valis]]
 
 - legend
   - [ ] in progress 
