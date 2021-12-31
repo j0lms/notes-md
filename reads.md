@@ -162,6 +162,8 @@
     - [[convergence culture]]
   - [[john lynch]]
     - [[simón bolívar]]
+  - [[max tegmark]]
+    - [[our mathematical universe]]
 
 - legend
   - [ ] in progress 
