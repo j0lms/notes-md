@@ -165,6 +165,8 @@
     - [[valis]]
   - [[max tegmark]]
     - [[our mathematical universe]]
+  - [[eric raymond]]
+    - [[the cathedral and the bazaar]]
 
 - legend
   - [ ] in progress 
