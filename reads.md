@@ -144,7 +144,6 @@
   - [[marco aurelio]]
     - [[meditaciones]]
   - [[agnes callard]]
-    - [[moral tribes]]
     - [[on anger]]
   - [[robert anton wilson]]
     - [[prometheus rising]]
@@ -162,6 +161,8 @@
     - [[convergence culture]]
   - [[john lynch]]
     - [[simón bolívar]]
+  - [[philip kindred dick]]
+    - [[valis]]
   - [[max tegmark]]
     - [[our mathematical universe]]
 
