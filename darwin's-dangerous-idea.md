@@ -1,8 +1,0 @@
-- A [[book]]
-  - [[author]] [[daniel dennett]]
-  - [[skyhook]]
-  - [[greedy reductionism]]
-  - [[mendel's library]]
-  - [[stephen jay gould]]
-  - [[lynn margulis]]
-  - [[ruth millikan]]
