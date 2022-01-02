@@ -3,7 +3,7 @@
   - [[go]] https://jorgeolmos.pythonanywhere.com
   - [[contact]] https://jorgeolmos.pythonanywhere.com/contact
   - [[twitter]] https://twitter.com/j0lms
-  - [[mastodon]] https://mastodon.social/@j0lms
+  - [[mastodon]] @mastodon.social@j0lms
   - [[github]] https://github.com/j0lms
   - [[codeberg]] https://codeberg.org/j0lms
   - [[telegram]] @j0lms
