@@ -167,6 +167,8 @@
     - [[our mathematical universe]]
   - [[eric raymond]]
     - [[the cathedral and the bazaar]]
+  - [[gilles deleuze]]
+    - [[difference and repetition]]
 
 - legend
   - [ ] in progress 
