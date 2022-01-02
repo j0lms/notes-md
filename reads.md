@@ -15,7 +15,7 @@
   - [[christopher alexander]]
     - [[a pattern language]]
   - [[roger penrose]]
-     - [[the road to reality]] 
+     - [[the road to reality]]
   - [[alasdair mcintyre]]
     - [[after virtue]] 
   - [[walter miller]]
@@ -169,6 +169,15 @@
     - [[the cathedral and the bazaar]]
   - [[gilles deleuze]]
     - [[difference and repetition]]
+  - [[jacques attali]]
+    - [[noise]]
+  - [[henri bergson]]
+    - [[duration and simultaneity]]
+  - [[jános maróthy]]
+    - [[music and the bourgeois music and the proletarian]]
+  - [[vladimir jankélévitch]]
+    - [[music and the ineffable]]
+  
 
 - legend
   - [ ] in progress 
