@@ -177,7 +177,8 @@
     - [[music and the bourgeois music and the proletarian]]
   - [[vladimir jankélévitch]]
     - [[music and the ineffable]]
-  
+  - [[johan huizinga]]
+    - [[homo ludens]]
 
 - legend
   - [ ] in progress 
