@@ -1,3 +1,4 @@
 - A [[mistake]]
   - [[oops is the sound we make]]
   - [[serendipity]]
+  - [[pull]] [[schelling and revelation]]

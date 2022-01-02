@@ -1,1 +1,5 @@
-[[go]] https://www.readthesequences.com/#preface
+- A [[quote]]
+  - [[book]] [[rationality from ai to zombies]]
+  - [[the sequences]]
+  - [[author]] [[eliezer yudkowsky]]
+  - [[go]] https://www.readthesequences.com/#preface
