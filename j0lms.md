@@ -1,0 +1,12 @@
+- A [[j0lms]]
+  - [[person]] [[composer]]
+  - [[go]] https://jorgeolmos.pythonanywhere.com
+  - [[contact]] https://jorgeolmos.pythonanywhere.com/contact
+  - [[twitter]] https://twitter.com/j0lms
+  - [[mastodon]] https://mastodon.social/j0lms
+  - [[github]] https://github.com/j0lms
+  - [[codeberg]] https://codeberg.org/j0lms
+  - [[telegram]] @j0lms
+  - [[matrix]] @j0lms:matrix.org
+  - [[discord]] j0lms#8968
+  - [[soundcloud]] https://soundcloud.com/j0lms
