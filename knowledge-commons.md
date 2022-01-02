@@ -1,8 +1,6 @@
 - A part of [[the commons]]
-    - [[copyleft]]
     - [[collective ownership]]
     - [[collective intelligence]]
     - [[intellectual property]]
     - [[open science]]
-    - [[free libre open source software]]
     - [[pull]] [[governing the commons]]
