@@ -1,2 +1,5 @@
 - Un [[libro]]
   - [[autor]] [[aristóteles]]
+  - [[amicus plato sed magis amica veritas]]
+  - [[eudaimonia]]
+  - [[arete]]
