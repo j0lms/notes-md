@@ -1,4 +1,4 @@
-- A part of [[the commons]]
+- A part of the [[commons]]
     - [[collective ownership]]
     - [[collective intelligence]]
     - [[intellectual property]]
