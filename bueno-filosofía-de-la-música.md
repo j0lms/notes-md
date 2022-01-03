@@ -1,7 +1,7 @@
 - Un [[curso]]
   - [[autor]] [[gustavo bueno]]
 ### 1a
-- «Todo filósofo es un músico fracasado» [[carnap]]
+- «Todo filósofo es un músico fracasado» [[rudolf carnap]]
 - Todo el mundo es filósofo
 - La música como catarsis-purga [[aristóteles]]
 - 12 Cuestiones sin respuesta:
@@ -20,7 +20,7 @@
 - Sintagma «filosofía de», filosofía genitiva, rótulo de disciplinas
 - «Filosofía de la religión» como filosofía en genitivo
 - «Teología» como filosofía en nominativo
-- La filosofía de la religión en [[hegel]]
+- La filosofía de la religión en [[georg wilhelm friedrich hegel]]
 - Tesis del modernismo como «la idea de Dios solo cobra sentido a través de la religión, fuera de la religión es otra cosa» (acto puro, causa primera)
 - Estrato de la filosofía nominativa, «horismático», ideas separadas de la realidad cotidiana práctica (institucional)
 - Respuesta a [[eustaceo de cebastes]]
@@ -100,7 +100,7 @@
 - Interpretación aristotélica de los sentidos
 - Dualismo de [[rené descartes]] como Dualismo Ontológico, no Gnoseológico
 - Tesis del automatismo de las bestias
-- [[george berkeley]] y [[nicolas malebranche]] «perspectiva católica y protestante con respecto a la sensibilidad-inteligencia de los animales»
+- [[george berkeley]] y [[nicolás malebranche]] «perspectiva católica y protestante con respecto a la sensibilidad-inteligencia de los animales»
 - Las pasiones cartesianas (la admiración, el apetito, el amor, el odio, la tristeza, la alegría)
 - Delibes y la teoría de las pasiones cartesianas
 - Premisas cartesianas en la teoría de la armonía de [[jean philippe rameau]]
@@ -128,14 +128,14 @@
 - Posibilidad de que la idea de filosofía y metafísica venga de la música
 - Arquitectura-arquitectónica como precedente de la idea de estructura
 - Tendencia al saber en Aristóteles
-- Heródoto narra Solón
+- [[heródoto]] narra [[solón]]
 - Filosofía como procedente de no saber, ignorancia absoluta, duda absoluta originaria (incertidumbre completa)
 - Contradicción-paradoja Socrática «tipo de saberes donde saberlos implica no saber nada»
 - Saber de primer grado versus saber de otros saberes
 - La relevancia del odio y el amor en el saber de primer grado «saberes de primer grado odiosos, saberes estéticamente asquerosos»
 - El saber no tiene por qué ser deseado
 - El desear un saber no hace filosofar a nadie
-- El concepto de filosofía en Grecia según Jäger
+- El concepto de filosofía en Grecia según [[werner jäger]]
 - La filosofía como saber crítico de los otros (matiz dialéctico de la definición etimológico-psicológica del saber)
 - El saber de segundo grado filosófico como creación del círculo platónico (atribuida a los pitagóricos)
 - El saber de primer grado (técnico, científico, mitológico, metafísico) en conflicto continuo
@@ -144,8 +144,8 @@
 - El estrato de la materialidad-contenido y la modalidad (necesaria, contingente, apodíctica, problemática, etc.)
 - Modalidad apodíctica (con absoluta seguridad) y problemática (absoluta inseguridad)
 - Saberes seguros insuficientes
-- La demostración del teorema de Tales de Mileto
-- En saber geométrico en la antigua Grecia (Tales, Pitágoras, Anaxágoras, Protágoras, Platón)
+- La demostración del teorema de [[tales de mileto]]
+- En saber geométrico en la antigua Grecia (Tales, Pitágoras, [[anaxágoras]], [[protágoras]], Platón)
 - La polimatía (saberes abundantes por seguros que sean) son insuficientes porque no agotan la materia
 - Los saberes, después de desbordar materias cotidianas, concretas, y seguras (de albañiles y artesanos), no son tan seguros
 - ¿De qué trata la filosofía? ¿Cuáles son los contenidos de esa filosofía que al parecer desbordan de conocimiento? ¿Quién la posee?
@@ -165,17 +165,17 @@
 - Filosofía como término conjugado respecto de la ciencia
 - Diferencia entre pares conjugados con los correlativos, opuestos, contrarios, contradictorios
 - Pares conjugados: reposo-movimiento, sujeto-objeto, cuerpo-espíritu, filosofía-ciencia
-- Cinco esquemas del par conjugado reposo-movimiento: a) esquema de relación de yuxtaposición entre cosas distintas b) esquema de fusión y rearticulación (Nicolás de Cusa sobre Dios en reposo y movimiento a la vez) c) esquema de reducción de uno a otro (reducción del reposo al movimiento, movimiento al reposo) d) esquema de involucración diamérica (reposo como relación entre los movimientos, movimiento como relación entre los reposos)
+- Cinco esquemas del par conjugado reposo-movimiento: a) esquema de relación de yuxtaposición entre cosas distintas b) esquema de fusión y rearticulación ([[nicolás de cusa]] sobre Dios en reposo y movimiento a la vez) c) esquema de reducción de uno a otro (reducción del reposo al movimiento, movimiento al reposo) d) esquema de involucración diamérica (reposo como relación entre los movimientos, movimiento como relación entre los reposos)
 - La filosofía y la ciencia entendidas según el esquema de la yuxtaposición
-- Boecio y Guido D'Arezzo «no hace falta saber filosofía para tocar un instrumento»
+- [[severino boecio]] y [[guido d'arezzo]] «no hace falta saber filosofía para tocar un instrumento»
 - La filosofía y la ciencia de una época como expresión de la religión de una época
 - Tesis de Crombie sobre el desarrollo de la ciencia en un fondo cristiano
 - Estancamiento de la ciencia islámica
-- La teoría de decadencia del occidente de Spengler, cultura como superorganismos (cultura antigua, cultura mágica, decadencia de la cultura fáustica)
+- La teoría de decadencia del occidente de [[oswald spengler]], cultura como superorganismos (cultura antigua, cultura mágica, decadencia de la cultura fáustica)
 -  Las culturas como organismos tienen tejidos independientes unas de las otras
 - Cada cultura produce sus órganos propios, música como creación de la cultura fáustica, arquitectura como arte de la cultura antigua
 - La ciencia moderna es expresión de la cultura fáustica
-- Esquema de reducción de la ciencia a la filosofía (reducción de la ciencia de la música a filosofía de la música, La crisis de la ciencia europea de Husserl)
+- Esquema de reducción de la ciencia a la filosofía (reducción de la ciencia de la música a filosofía de la música, La crisis de la ciencia europea de [[edmund husserl]])
 - Europa como filosofía griega y ciencia
 - La filosofía como ciencia primera rigurosa
 - Al margen de la filosofía, la ciencia es una técnica mecánica sin sentido
@@ -183,22 +183,22 @@
 - Todo músico o todo científico tiene que tener una filosofía, de lo contrario es un autómata
 - La reducción de la filosofía a la ciencia (Positivismo, círculo de Viena)
 - Reducción de la filosofía al análisis lógico del lenguaje, carácter asemántico de la música (Carnap)
-- Tractatus de Wittgenstein como asemántico
+- [[tractatus logico philosophicus]] de [[ludwig wittgenstein]] como asemántico
 - La idea de la relación de involucración diamérica (vinculación de las ideas filosóficas con la ciencia)
 - Ideas sobre la ciencia de los científicos, fundamentalismo científico como idea religiosa
 - La ciencia no es un concepto unívoco
 - La ciencia como saber hacer
 - La ciencia del zapatero, jardinero, músico
 - Distinción Factible y agible
-- *El médico de su honra* de Calderón «La ciencia de la honra»
+- [[el médico de su honra]] de [[calderón de la barca]] «La ciencia de la honra»
 - La ciencia es un arte de hacer operaciones quirúrgicas (con las manos, no con la mente, la mente no hace operaciones)
-- Verum Factum en el estoicismo
+- [[verum factum]] en el [[estoicismo]]
 - Las ciencias como procedente de las artes
 - Todas las ciencias vienen de oficios (geometría viene de la mensura, la aritmética viene del comercio, origen de la geometría en Egipto, la química viene de la cocina) 
 - Acepciones de la ciencia musical:
-  1. La música como ciencia en el *Musica enchiriadis* «música como ciencia de saber cantar bien» La música como ciencia en Agustín de Hipona, la ciencia de la música no debía tener que ver nada con la técnica-arte (Platonismo, música de las esferas, música divina, música inaudible-insonora-afónica, música «por tu sabia mano gobernada»)
+  1. La música como ciencia en el [[musica enchiriadis]] «música como ciencia de saber cantar bien» La música como ciencia en [[agustín de hipona]], la ciencia de la música no debía tener que ver nada con la técnica-arte (Platonismo, música de las esferas, música divina, música inaudible-insonora-afónica, música «por tu sabia mano gobernada»)
   2. Música como un sistema ordenado de proposiciones sobre el arte en cuestión (la música) La teología dogmática como ciencia, la enseñanza como origen de la ciencia proposicional, arte como transmisible por la enseñanza (a diferencia de la prudencia)
-- Segundos analíticos, Poética de Aristóteles
+- Segundos analíticos, [[poética]] de Aristóteles
 - El arte supone la enseñanza, es universal en tanto lo que hace un artista puede hacerlo otro con mayor o menor destreza
 - Ciencias positivas por antonomasia, ciencias duras, ciencias alfa-operatorias (revolución que marca el cambio entre la Edad Media y la Edad Moderna)
 - Las ciencias humanas o sociales, ciencias beta-operatorias
@@ -214,12 +214,12 @@
 - La dualidad isomórfica punto-recta en geometría
 - Paralelos de la música con otros campos y otras ciencias
 - La estructura del campo musical es una estructura dual
-- El Formalismo de Hilbert en geometría
+- El Formalismo de [[david hilbert]] en geometría
 - Definiciones implícitas de las variables «*x* es una variable que combinada con *y* da *z* según unas leyes formales de operación (no significa más que las operaciones)»
-- *El álgebra y la lógica* de Couturat
+- [[el álgebra de la lógica]] de [[louis couturat]]
 - Plano articulatorio y plano auditivo
-- Distinción fonémica y fonética en Pike
-- Física corpuscular y física ondulatoria como perspectivas gnoseológicas y no ontológicas que describían la misma realidad (Bohr)
+- Distinción fonémica y fonética en [[albert pike]]
+- Física corpuscular y física ondulatoria como perspectivas gnoseológicas y no ontológicas que describían la misma realidad ([[niels bohr]])
 - Distinción transversal del campo científico a la música
 - Perspectiva o momento activo y receptivo del campo de la música
 - La perspectiva activa incluye los instrumentos, los intérpretes, y al compositor
@@ -230,35 +230,35 @@
 - Acción y pasión en Aristóteles
 - Correspondencia entre pasiones y emociones con la música
 - Arte e improvisación
-- Prólogo del *Análisis Schenkeriano* de Forte y Gilbert
+- Prólogo de [[introduction to schenkerian analysis]] de [[allen forte]] y [[steven gilbert]]
 - Posibfilidad de una ciencia de la música capaz de englobarla 
 - Teorías filosóficas, científicas, y teológicas
 ### 3a
-- Acepciones antropológicas («filosofía de» como religión, mitología, mitos etiológicos, morales, cosmogonía, »Weltanschauung« «relativismo cultural», escepticismo, filosofía en sentido antropológico «de los antropólogos», la geometría es de todas las culturas, filosofía vinculada a las ciencias, característica positiva de la filosofía griega, respuesta mitológica (Atlas) y filosófica (Anaximandro) a la pregunta «¿por qué la tierra no se cae?»)
-- Acepciones sociológicas («filosofía de» como filosofía mundana, corriente, «filosofía que todo el mundo tiene», esteticismo «la filosofía de cada cual vale lo mismo que otro», la filosofía de las tribus bantú, la filosofía de la música de Mazzini «la música mediterránea y la música germánica», la poética de la música de Stravinsky «relación entre orden y tiempo», Doktor Faustus de Mann «música como ambigüedad hecha sistema», tradición académica)
+- Acepciones antropológicas («filosofía de» como religión, mitología, mitos etiológicos, morales, cosmogonía, »Weltanschauung« «relativismo cultural», escepticismo, filosofía en sentido antropológico «de los antropólogos», la geometría es de todas las culturas, filosofía vinculada a las ciencias, característica positiva de la filosofía griega, respuesta mitológica ([[atlas]]) y filosófica ([[Anaximandro]]) a la pregunta «¿por qué la tierra no se cae?»)
+- Acepciones sociológicas («filosofía de» como filosofía mundana, corriente, «filosofía que todo el mundo tiene», esteticismo «la filosofía de cada cual vale lo mismo que otro», la filosofía de las tribus bantú, la filosofía de la música de Mazzini «la música mediterránea y la música germánica», la poética de la música de Stravinsky «relación entre orden y tiempo», [[doktor Faustus]] de [[thomas mann]] «música como ambigüedad hecha sistema», tradición académica)
 - Tratados de música y tratados de termodinámica
 - Las tres grandes Ideas de la metafísica de Wolff, Bacon, y Tomás de Aquino (Dios o absoluto, mundo o cosmos, Hombre o homo sapiens)
-- La música vista desde la perspectiva de Dios (Agustín de Hipona, Gerónimo, Hegel, Lutero, Ansermet «pérdida de la ley tonal como muerte de Dios»)
-- La música vista desde la perspectiva del mundo (Pitagóricos, Filolao «música como expresión de la armonía del universo», Kepler, Aristóteles y la crítica a la idea de música de las esferas, Schelling)
-- La música vista desde la perspectiva del hombre (Adorno sobre Beethoven «la música como expresión del hombre», crítica a la filosofía de la música de García Bacca «de la palabra hombre en el credo de las misas», Schoenberg «revelación de una forma de vida más elevada de la humanidad»)
+- La música vista desde la perspectiva de Dios (Agustín de Hipona, [[gerónimo]], Hegel, [[martín lutero]], Ansermet «pérdida de la ley tonal como muerte de Dios»)
+- La música vista desde la perspectiva del mundo (Pitagóricos, Filolao «música como expresión de la armonía del universo», [[johannes kepler]], Aristóteles y la crítica a la idea de música de las esferas, [[friedrich schelling]])
+- La música vista desde la perspectiva del hombre (Adorno sobre Beethoven «la música como expresión del hombre», crítica a la filosofía de la música de [[juan david garcía bacca]] «de la palabra hombre en el credo de las misas», Schoenberg «revelación de una forma de vida más elevada de la humanidad»)
 - Modulación de la expresión «filosofía de la música» en sentido estricto
 - «Filosofía de» en sentido genitivo subjetivo y genitivo objetivo (Temor de Roma)
 - «Filosofía de» (objetivo, filosofía sobre la música, ideas filosóficas previas aplicadas a la música) y «filosofía desde» (subjetivo, filosofía que saca de la música sus ideas filosóficas «la música como fuente de ideas filosóficas», la música como realización de ideas filosóficas en Schopenhauer)
-- Argumento ontológico de Anselmo de Canterbury
+- Argumento ontológico de [[anselmo de canterbury]]
 - Efecto Doppler en sonido y luz «homología entre sonidos y colores» (no es filosofía de la música)
-- Experimentos de Shepard y escaleras de Escher (no es filosofía de la música)
+- Experimentos de [[roger shepard]] y escaleras de [[maurits cornelis escher]] (no es filosofía de la música)
 - Sobre la posibilidad de una filosofía sistemática de la música
 - Symploké (discontinuidad) como crítica a Schopenhauer
 ### 3b
 - Música y filosofía desde la lógica de clases
-- Música y filosofía desde el punto de vista de que no tienen nada que ver (clases disyuntas, negación de la «filosofía de» en sentido subjetivo, iconoclasmo, el peligro de la música en el templo según Boecio, la filosofía del arte de Hegel en Croce, las fases del espíritu en Kierkegaard, disyunción y esencias megáricas, ecualización de conjuntos disyuntos estricta «rombos y cuadrados ante los paralelogramos equiláteros» y no estricta «ante los polígonos», estructuras jerárquicas «centralistas» tonales, estatales, y físicas, Attali, base y superestructura en el sociologismo como no ecualización)
-- Música y filosofía desde el punto de vista positivo (»Musikwissenschaft«, conjunto de ciencias de la música (psicología, etnología, acústica, etc.), enciclopedia de las ciencias de la música «musicología» no es una categoría propia, interdisciplinariedad como problema filosófico, distinción intorno-entorno «ciencias e historia de la música, disciplinas de ejecución y disciplinas sobre la música-musicología», obertura de Brahms como tesis doctoral (investigación), ciencias que engloban a la musicología como ciencias de entorno, reducción de la filosofía a doxografía)
-- Estética musical como ciencia «sobre» la música
-- Estética y musicología
+- Música y filosofía desde el punto de vista de que no tienen nada que ver (clases disyuntas, negación de la «filosofía de» en sentido subjetivo, iconoclasmo, el peligro de la música en el templo según Boecio, la filosofía del arte de Hegel en [[benedetto croce]], las fases del espíritu en [[søren kierkegaard]], disyunción y esencias megáricas, ecualización de conjuntos disyuntos estricta «rombos y cuadrados ante los paralelogramos equiláteros» y no estricta «ante los polígonos», estructuras jerárquicas «centralistas» tonales, estatales, y físicas, [[jacques attali]], base y superestructura en el sociologismo como no ecualización)
+- Música y filosofía desde el punto de vista positivo ([[musikwissenschaft]], conjunto de ciencias de la música (psicología, etnología, acústica, etc.), enciclopedia de las ciencias de la música «musicología» no es una categoría propia, interdisciplinariedad como problema filosófico, distinción intorno-entorno «ciencias e historia de la música, disciplinas de ejecución y disciplinas sobre la música-musicología», obertura de Brahms como tesis doctoral (investigación), ciencias que engloban a la musicología como ciencias de entorno, reducción de la filosofía a doxografía)
+- [[estética musical]] como ciencia «sobre» la música
+- [[estética]] y [[musicología]]
 - Investigación en música, investigación como interna a la ciencia
 - Homología entre composición e invención
 - Predicción objetiva en la investigación musical
-- Ejes del espacio gnoseológico (sintáctico «sector de los términos, sector de las operaciones, sector de las relaciones» , semántico «sector referencial, sector fenoménico, sector estructural [esencial]», pragmático «sector de autologismos, sector de dialogismos, sector de las normas»)
+- Ejes del [[espacio gnoseológico]] (sintáctico «sector de los términos, sector de las operaciones, sector de las relaciones» , semántico «sector referencial, sector fenoménico, sector estructural [esencial]», pragmático «sector de autologismos, sector de dialogismos, sector de las normas»)
 - Investigaciones de términos y relaciones en música «términos como sonidos nuevos generados electrónica o étnicamente», investigaciones de operaciones en música «instrumentos como operadores y relatores en música» (eje sintáctico)
 - Investigación de las fuentes materiales de los sonidos, fenomenología de la música (eje semántico)
 ### 4a
@@ -270,44 +270,44 @@
 - Acepciones principales del ser en Aristóteles (Sustancia y Dios)
 - Negación de la química en tanto ciencia en Comte
 - La ausencia de la teología en las  Disputaciones Metafísicas de Suárez
-- El ser en general en Gustavo de Mendoza «sobre si el ser es unívoco, análogo, o equívoco»
-- Aristóteles (analogía del ser, «el ser se dice de muchas maneras») contra Jenófanes (escuela eleática, univocidad del ser)
+- El ser en general en [[gustavo de Mendoza]] «sobre si el ser es unívoco, análogo, o equívoco»
+- Aristóteles (analogía del ser, «el ser se dice de muchas maneras») contra [[jenófanes]] (escuela eleática, univocidad del ser)
 - Lógica de Hegel como Ontología
 - Ondas sinusoidales (escala lisológica) y timbres (escala morfológica)
-- Música estocástica en Xenakis
+- Música estocástica en [[iannis xenakis]]
 - Géneros lisológicos de materialidad como ontología especial (M1 «aspecto físico-mecánico de la realidad», M2 «experiencias anímicas-psicológicas de hombres o animales, estructura interindividual», M3 «relaciones establecidas fuera del espacio y el tiempo»)
 - Perspectiva morfológica de los géneros de materialidad como ideas propias de la metafísica
 - El placer sensorial de la música como «sombra de los sonidos»
 - La unicidad de las artes en Schumann y Croce
-- Le religión musical de Mauclair
-- La obra musical total en Mazzini y Wagner
+- [[la religión de la música]] de [[camille mauclair]]
+- La obra musical total en Mazzini y [[richard wagner]]
 ### 4b
 - Categorías como concatenación de conceptos vinculados a contenidos materiales fenoménicos, modulaciones de la idea de ser
 - Geometría sin figuras y música afónica
 - Categorías e ideas como formas puras (tesis Kantiana)
 - La idea de categoría en Aristóteles
-- Teoría de las ideas como descubrimiento de las categorías (tesis de Natorp)
+- Teoría de las ideas como descubrimiento de las categorías (tesis de [[paul natorp]])
 - Distinción Welt-Natur en Kant
 - Reduccionismo de Schopenhauer
 - «No hay una categoría universal»
 - Origen mundano de las categorías (sobre el habitus), crítica al apriorismo
 - Categoría como predicamento (género y especie de carácter distributivo, árbol de Porfirio)
 - Transitividad de las categorías «lo que se dice del todo, se dice de las partes», «la ciencia consiste en hacer silogismos» (ciencia proposicional, Aristóteles)
-- Árbol zoológico de Linneo, el hombre como categoría, el darwinismo como revolución lógica antes que biológica (categoría de «seres vivientes», idea de biósfera
-- Ciencias modernas como aquellas que han logrado un cierre categorial
-- Estructura constitutiva de las categorías, materia y forma como estructura universal de las categorías (hilemorfismo)
-- Formalismo (Herbart y Hanslick) y materialismo (contenidismo, teoría del sentimiento) en música
-- La idea de formante en Boulez y Stockhausen
-- Nietzsche contra Wagner
-- El contenido (materia) social de la novela en Sartre, «la novela burguesa es mala por definición»
+- Árbol zoológico de [[carlos linneo]], el hombre como categoría, el darwinismo como revolución lógica antes que biológica (categoría de «seres vivientes», idea de [[biósfera]]
+- Ciencias modernas como aquellas que han logrado un [[cierre categorial]]
+- Estructura constitutiva de las categorías, materia y forma como estructura universal de las categorías ([[hilemorfismo]])
+- Formalismo ([[johann friedrich herbart]] y Hanslick) y materialismo (contenidismo, teoría del sentimiento) en música
+- La idea de formante en [[pierre boulez]] y [[karlheinz stockhausen]]
+- [[friedrich nietzsche]] contra Wagner
+- El contenido (materia) social de la novela en [[jean paul sartre]], «la novela burguesa es mala por definición»
 - La melodía como forma, criterio de supersumatividad «más que la suma de sus elementos», criterio de transportabilidad
 - Partes formales (i.e. sonidos perceptibles, se puede reconocer el todo) y partes materiales (i.e. super e infrasonidos) en música, concepto de diamórfosis (fragmentación en partes formales)
 ### 5a
-- El mito de las cigarras en el Fedro
-- Artes liberales (nobles) y serviles, las bellas artes
+- El mito de las cigarras en el [[fedro]]
+- [[artes liberales]] (nobles) y [[artes serviles]], las bellas artes
 - Distinción en entre categorías gnoseológicas, científicas, o tecnológicas (artísticas)
 - La verdad como adecuación del intelecto con la cosa «adaequatio rei et intellectus»
-- Ejemplo de Tarski ('Snow is white' is true if and only if snow is white)
+- Ejemplo de [[alfred tarski]] ('Snow is white' is true if and only if snow is white)
 - Posibilidad de la verdad como adecuación en el teorema de Pitágoras
 - La verdad del teorema de Pitágoras como identidad no empírica, verdad inmanente a los propios términos enlazados del campo de la geometría (cuadrados, triángulos)
 - «Tantas categorías como ciencias que hayan podido cerrar mediante la verdad»
@@ -315,12 +315,12 @@
 - Distinción entre ciencia y arte en Aristóteles (ciencias especulativas y ciencias prácticas)
 - Práctica como poiesis, tecne y poiesis (creación, construcción, producción), «la poesía es más científica que la historia»
 - Práctica como praxis, controlada por la phronesis (práctica del derecho, la moral, lo agible versus lo factible), práctica no tecnológica
-- Ciencia y arte en Platón (verdad y apariencia, «mimesis», Zeuxis y Parrasio)
+- Ciencia y arte en Platón (verdad y apariencia, «mimesis», [[zeuxis y parrasio]])
 - La verdad como criterio estético
 - Categoría de naturaleza y libertad en Kant y Hegel
-- Naturaleza y cultura en Windelband y Rickert
+- Naturaleza y cultura en Windelband y [[heinrich rickert]]
 - Estructura genérica y propia de la categoría musical
-- Emancipación-autonomía de la música en Neubauer
+- Emancipación-autonomía de la música en [[john neubauer]]
 - Placer sensible y placer intelectual (emancipación)
 - Independencia con respecto al texto de la música instrumental, música vocal en un idioma no conocido (autonomía)
 - La necesidad de la partitura en la orquesta
@@ -356,17 +356,17 @@
 - Ciencia e Ingeniería (Escalas lisológicas y morfológicas)
 - Aspectos genéricos y propios de la escala lisológica
 - Rasgos distintivos y constitutivos
-- La Grabación en Edison
-- La Grabación Neutraliza la Distinción Intérprete-Otro (Concierto de Ravel)
+- La Grabación en [[thomas edison]]
+- La Grabación Neutraliza la Distinción Intérprete-Otro (Concierto de [[maurice ravel]])
 - El Dodecafonismo como Vanguardia
 - Ritmicid(ad), Tonalid(ad), Tematicid(ad)
 - Perspectivas sapienciales sobre la esencia de la música
-- Verdad y Fundamento en el Menón
+- Verdad y Fundamento en el [[menón]]
 - Filosofía positiva en Schelling y en Comte
 - Perspectiva idealista sobre el Ritmo (Fichte & Krause)
 - Perpectiva positivista sobre el Ritmo (Spencer & Spengler & Darwin)
-- Tonalidad y gravedad (Hindemith)
-- El Arte de la Fuga de Bach
+- Tonalidad y gravedad ([[paul hindemith]])
+- El Arte de la Fuga de [[johann sebastian bach]]
 - Tema y Gramática
 - Tema y Memoria
 - Catadores como expertos
@@ -376,7 +376,7 @@
 - Schenker y el monismo-monoteísmo
 - La música como conjunto de sonidos puntuales aleatorios que se van sucediendo unos a otros en el tiempo
 - Pastiche y música concreta
-- La analogía del Gorgias de Platón entre músicos y tejedores
+- La analogía del [[gorgias]] de Platón entre músicos y tejedores
 - La urdimbre y la trama
 - Crítica a la interpretación gravitatoria de la armonía y de la tonalidad armónica
 - La justificación vocal de la melodía, coral de la armonía
@@ -398,19 +398,19 @@
 - Unidades Temáticas (Atomismo)
 - Actualismo como teoría de la sustancia
 - Unidades extramusicales 
-- Teoría Miller del Lenguaje
+- Teoría del Lenguaje de [[george armitage miller]]
 - El Contenido de Verdad de la Música
 - Verdad como Revelación
 - Verdad como Expresión
 - Música y humanidad
 - Universalidad y globalidad (Poder civil, poder judicial)
 - Verdad de la Música como Ciencia Aristotélica (Adecuación de los silogismos con las premisas dadas)
-- Verdad de la música como imitación (Mimesis)
+- Verdad de la música como imitación ([[mimesis]])
 - Reproducción e imitación
 ### 7a
 - Distinción entre concepto (concipio, capio) e idea (ver)
 - Nominalismo y espiritualismo
-- Triángulo universal de Locke (La idea universal de triángulo) 
+- Triángulo universal de [[john locke]] (La idea universal de triángulo) 
 - Concepto operatorio
 - Las ideas son objetivas, son parte de la estructura de nuestro mundo
 - Crítica a la concepción subjetiva de la música
@@ -447,12 +447,12 @@
 - Disfrute y relajación con música
 - Los fenómenos musicales suponen conceptos
 - Sonido natural y sonido musical
-- Imitación de los pájaros en Demócrito y Croce (Bosanquet)
+- Imitación de los pájaros en [[demócrito]] y Croce ([[bernard bosanquet]])
 - El «mono desnudo» como concepto poético
 - El fenómeno musical es anómalo con respecto a los sonidos naturales (no institucionales)
 - La musicalización de los fenómenos naturales en la partitura
 - La música como fenómeno cultural
-- La imitación de la poiesis
+- La imitación de la [[poiesis]]
 - El origen musical y coral del lenguaje
 - La idea de Barroco como comparación de la música con la arquitectura
 ### 7b
@@ -466,10 +466,10 @@
 - Componente lingüístico
 - Teoría músical como conjunto de conceptos musicales y no musicales (literarios, argumento de una ópera)
 - Involucración entre el análisis musical y literario, valoraciones musicales y literarias
-- La cuestión de la subordinación del texto a la música o vice versa (Glück, Mozart en las cartas al padre, Strauss sobre Göthe)
+- La cuestión de la subordinación del texto a la música o vice versa ([[christoph willibald gluck]], [[wolfgang amadeus mozart]] en las cartas al padre, [[richard strauss]] sobre [[johann wolfgang von göthe]])
 - Los límites de las artes
-- Teorías psicológicas-psicoanalíticas (Reik, teorías psicoanalíticas de la Sinfonía 2 y 8 de Mahler, Adler y Freud, Sobre Abraham) y sociológicas de la música
-- Implicaciones tonales del acorde de Tristán (Origen del atonalismo)
+- Teorías psicológicas-psicoanalíticas ([[theodor reik]], teorías psicoanalíticas de la Sinfonía 2 y 8 de [[[gustav mahler]], [[alfred adler]] y [[sigmund freud]], Sobre [[karl abraham]]) y sociológicas de la música
+- Implicaciones tonales del [[acorde de tristán]] (Origen del atonalismo)
 - La partitura y la narrativa
 - La disonancia y la revolución kepleriana
 - Teorías estrictas de la armonía (Rameau)
@@ -481,25 +481,25 @@
 - Polifonía y Monodia
 - El Drama y la Ópera, lo Natural y lo Artificial
 - Matemáticas y lenguaje
-- Matemática como instrumento (Bourbakismo)
+- Matemática como instrumento ([[nicolas bourbaki]])
 - Lenguaje matemático, lenguaje musical
-- La música como lenguaje y no-lenguaje (Levi-Strauss, formalismo)
+- La música como lenguaje y no-lenguaje ([[claude levi strauss]], formalismo)
 - Expresionismo y formalismo
-- Referencialismo y absolutismo en Meyer
-- Rousseau sobre el lenguaje y la música
-- La música como lenguaje universal de los sentimientos, característica del romanticismo alemán (Sturm und Drang, Herder)
+- Referencialismo y absolutismo en [[leonard meyer]]
+- [[jean jacques rousseau]] sobre el lenguaje y la música
+- La música como lenguaje universal de los sentimientos, característica del romanticismo alemán ([[sturm und drang]], [[johann gottfried von herder]])
 - Herder como creador del concepto de cultura
 - La música cósmica universal
-- Utopía y lenguaje universal
+- Utopía y [[lenguaje universal]]
 - El formalismo de Hanslick (Teoría del arabesco)
 - La Interpretación reduccionista de Hanslick
-- Disociación de la Música y Lenguaje en el Crátilo de Platón, conexión interna intrínseca entre las palabras y las cosas
-- La arbitrariedad del signo en Saussure como dogma de la lingüística
+- Disociación de la Música y Lenguaje en el [[crátilo]] de Platón, conexión interna intrínseca entre las palabras y las cosas
+- La arbitrariedad del signo en [[ferdinand de saussure]] como dogma de la lingüística
 - El lenguaje como música (Tesis de Rousseau)
 - La naturalidad de la monodia y el habla
 - La artificialidad y antinaturalidad de la polifonía
 - Polifonía como privilegio de la música sobre el lenguaje
-- Concilio de Trento; Sobre la música en los templos
+- [[concilio de trento]]; Sobre la música en los templos
 - Metáfora de Diderot «color al dibujo, sonido al texto»
 - La emancipación de la música instrumental y el desarrollo tecnológico
 - La melodía como discurso sucesivo
@@ -507,17 +507,17 @@
 - La música como acompañamiento
 - La identidad lingüístico-musical en el hombre primitivo y la disociación entre el lenguaje y la música
 - La interpretación mecánica y el sentimiento
-- El armonismo de Krause «música como colaboración mediante el sonido del Entendimiento, la Voluntad, y el Sentimiento»
+- El armonismo de [[karl krause]] «música como colaboración mediante el sonido del Entendimiento, la Voluntad, y el Sentimiento»
 - Interpretación psicologista de la obra musical (la recepción del público)
 - Efectos terapéuticos de la música
 - La música como arte de cantar
-- Zarlino y la correspondencia entre los intervalos y el texto
+- [[gioseffo zarlino]] y la correspondencia entre los intervalos y el texto
 - La convención en música, pautas convencionales de significado
-- Vocabulario musical de Cooke
+- Vocabulario musical de [[deryck cooke]]
 - Representación en música (sentimientos, no sentimientos)
 - Aplicación de las categorías del lenguaje al análisis musical (gramática, retórica)
-- El Análisis del Aria de Matheson
-- Koch sobre el análisis del discurso musical (Sujeto como tema)
+- El Análisis del Aria de [[johann matheson]]
+- [[heinrich christoph koch]] sobre el análisis del discurso musical (Sujeto como tema)
 - Langer y la teoría de los lenguajes científicos del Círculo de Viena
 - Lo inefable como la vida psíquica, sentimientos, niño de Carnap
 - Los contenidos semánticos de la música, significado de la música
@@ -585,14 +585,14 @@
   16. Lenguaje humano no antrópico
   17. Lenguaje cósmico
   18. Lenguaje molecular
-- El símbolo lingüístico en Miller y Morris
+- El símbolo lingüístico en Miller y [[charles morris]]
 - Música como lenguaje
 ### 9b
 - Las acepciones de tipo A contienen la estructura general del lenguaje
 - Lenguaje como forma y no materia
 - «Sin tacto y vista no se podría hablar»
 - Teoría de la doble articulación del lenguaje
-- La gramática de Tomás de Erfurt
+- La gramática de [[tomás de erfurt]]
 - Lenguaje natural y escritura en Platón
 - Escritura alfabética como forma de análisis del lenguaje
 - Música primitiva y arquitectura primitiva
@@ -621,19 +621,19 @@
 - Correspondencias aceptables y no aceptables entre lenguaje y música según el criterio de isomorfismo
 - Lenguaje y música como términos análogos
 - El concepto de analogía de desigualdad en Gaetano
-- Traducción en música (Comentarios de Schumann a la romanza sin palabras de Mendelssohn)
+- Traducción en música (Comentarios de Schumann a la romanza sin palabras de [[felix mendelssohn]])
 - Metonimia y metáfora en Jakobson
 - Importancia social de la música académica versus la música popular
-- La cuestión de la lingüística en Marr y Stalin
+- La cuestión de la lingüística en [[nikolai marr]] y [[joseph stalin]]
 - Lenguaje escrito y música escrita
 - Escritura como corrupción
 - La danza de las abejas
-- La imitación del canto de los pájaros en Vivaldi, Beethoven
-- Grabación de los cantos de los pájaros (música concreta en Schaeffer)
+- La imitación del canto de los pájaros en [[antonio vivaldi]], Beethoven
+- Grabación de los cantos de los pájaros (música concreta en [[pierre schaeffer]])
 - La naturaleza como lenguaje de Dios (Berkeley)
 ### 10b
-- Funciones representativa, expresiva, y apelativa del lenguaje (Bühler)
-- La música no es lenguaje (doble articulación, función representativa)
+- Funciones representativa, expresiva, y apelativa del lenguaje ([[karl bühler]])
+- La música no es lenguaje ([[doble articulación]], función representativa)
 - La expresión de las emociones en los animales (Darwin) no es lenguaje pero es comunicación
 - El sonido organizado como esencia del lenguaje y la música
 - La distinción entre el lenguaje, la música, y la pintura en el Crátilo, oposición a la onomatopeya
@@ -647,18 +647,18 @@
 - Protolenguaje, unión de la música y el lenguaje
 - Acompañamiento histórico de la música y el lenguaje
 - Canto de trabajo, subordinación de la música al oficio
-- Unión hipostática entre música y lenguaje (Oratorio)
+- Unión hipostática entre música y lenguaje ([[oratorio]])
 - Música instrumental y polifonía como origen de la separación entre música y lenguaje
 - Crítica a la polifonía de Vincenzo Galilei
 - Polifonía-instrumentalidad como muestra de la independencia-emancipación de la música con respecto al lenguaje
-- Texto y escala en el Himno de San Juan de Guido D'Arezzo
+- Texto y escala en el [[himno de san juan]] de Guido D'Arezzo
 - Visión catastrofista, vínculo entre instrumentalidad y atonalidad
 - Música como arte característica de la cultura fáustica
 - Emancipación de la música como origen de la teoría de la música como lenguaje universal
 - Identificación de los sentimientos con la divinidad
 - Música como mecanismo de excitación de los sentimientos
 - La música como lenguaje de los sentimientos es un acoplamiento extrínseco, teología
-- Justificación del consumo de drogas en Huxley, Leary, y Escohotado como teología
+- Justificación del consumo de drogas en [[aldous huxley]], [[timothy leary]], y [[antonio escohotado]] como teología
 ### 11a
 - 
 - 
@@ -692,3 +692,5 @@
 - [Cooke, *The Language of Music*](https://books.google.com/books/about/The_Language_of_Music.html?id=uci7AAAAIAAJ)
 - [Nietzsche, *The Case of Wagner*](https://www.gutenberg.org/ebooks/25012)
 - [Forte, *Introduction to Schenkerian Analysis*](https://archive.org/details/introductiontosc0000fort)
+- [Agustín de Hipona, *Sobre la Música*](https://www.epublibre.org/libro/detalle/50216)
+- [Couturat, *The algebra of logic*](https://archive.org/details/algebraoflogic00coutiala)
