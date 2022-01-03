@@ -13,7 +13,7 @@
   6. Cuestión de la racionalidad de las artes
   7. Cuestión de la unidad entre los géneros musicales y de su jerarquía
   8. Cuestión del universalismo o particularismo de la música
-  9. Cuestión de la tonalidad
+  9. Cuestión de la [[tonalidad]]
   10. Cuestión del reduccionismo de las estructuras musicales a determinadas estructuras sociológicas-políticas-superestructurales
   11. Cuestión del reduccionismo de las estructuras musicales a la condición de estructuras psicológicas-subjetivas
   12. Cuestión en torno a la posibilidad de una estética de la música «libre de valoración»
@@ -652,7 +652,7 @@
 - Crítica a la polifonía de [[vincenzo galilei]]
 - Polifonía-instrumentalidad como muestra de la independencia-emancipación de la música con respecto al lenguaje
 - Texto y escala en el [[himno de san juan]] de Guido D'Arezzo
-- Visión catastrofista, vínculo entre instrumentalidad y atonalidad
+- Visión catastrofista, vínculo entre instrumentalidad y [[atonalidad]]
 - Música como arte característica de la cultura fáustica
 - Emancipación de la música como origen de la teoría de la música como lenguaje universal
 - Identificación de los sentimientos con la divinidad
