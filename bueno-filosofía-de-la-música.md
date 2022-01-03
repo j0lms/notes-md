@@ -1,9 +1,9 @@
-# Filosofía Materialista de la Música de [[Gustavo Bueno]]
-
+- Un [[curso]]
+  - [[autor]] [[gustavo bueno]]
 ### 1a
-- «Todo filósofo es un músico fracasado» (Carnap)
+- «Todo filósofo es un músico fracasado» [[carnap]]
 - Todo el mundo es filósofo
-- La música como catarsis-purga (Aristóteles)
+- La música como catarsis-purga [[aristóteles]]
 - 12 Cuestiones sin respuesta:
   1. Cuestión proemial
   2. Cuestión general de implantación
@@ -20,28 +20,26 @@
 - Sintagma «filosofía de», filosofía genitiva, rótulo de disciplinas
 - «Filosofía de la religión» como filosofía en genitivo
 - «Teología» como filosofía en nominativo
-- La filosofía de la religión en Hegel
+- La filosofía de la religión en [[hegel]]
 - Tesis del modernismo como «la idea de Dios solo cobra sentido a través de la religión, fuera de la religión es otra cosa» (acto puro, causa primera)
 - Estrato de la filosofía nominativa, «horismático», ideas separadas de la realidad cotidiana práctica (institucional)
-- Respuesta a Eustaceo de Cebastes
+- Respuesta a [[eustaceo de cebastes]]
 - Objeto de la teología dogmática y escolástica
-- James sobre la educación de los místicos
-- Música metasensible, «música de las esferas», euritmia
-- Escolástica de Salamanca y de Christian Wolff
+- [[william james]] sobre la educación de los místicos
+- Música metasensible, «música de las esferas», [[euritmia]]
+- Escolástica de Salamanca y de [[christian wolff]]
 - Definición escolástica de la religión como «conjunto de relaciones que vinculan al hombre con Dios»
 - Las justicia desde la perspectiva aretaica
 - La creencia en Dios en el ancien régime
-- La física social de Comte
-- La idea del estado-nación en la filosofía de la música de Mazzini
-- La idea de la Belleza en Música
-- La estética como gnoseología inferior en Baumgarten
-- La lógica como gnoseología superior en Baumgarten
-- Espiritualismo Cartesiano y Orden Intelectual de Baumgarten
-- El dualismo de Baumgarten en Kant (lógica trascendental, estética trascendental)
+- La física social de [[auguste comte]]
+- La idea del estado-nación en la filosofía de la música de [[giuseppe mazzini]]
+- La idea de lo [[bello en música]]
+- La estética como gnoseología inferior en, lógica como gnoseología superior, espiritualismo cartesiano y orden Intelectual en [[alexander baumgarten]]
+- El dualismo de Baumgarten en [[immanuel kant]] (lógica trascendental, estética trascendental)
 - Estética como condición a priori para conocer la realidad (Realidad como creación de las formas espacio-tiempo a priori del sujeto)
 - Eslabones sinalógicos entre maestros y discípulos, tradición filosófica, «compacidad de la historia de la filosofía y la música»
-- Hanslick como ruptura con el romanticismo
-- La belleza en Schoenberg
+- [[eduard hanslick]] como ruptura con el romanticismo
+- La belleza en [[arnold schoenberg]]
 - Filosofía positiva de la música como el conjunto de instituciones históricamente dadas con profesionales-técnicos a su cargos (músicos, sacerdotes, juristas, funcionarios)
 - Diferencia entre ciencia y filosofía
 - Entidades propias de una profesión
@@ -50,21 +48,21 @@
 ### 1b
 - La idea de estructura desborda las áreas conceptuales
 - Parménides sobre las ideas de pelo y basura
-- La televisión como indigna para un filósofo (Adorno)
+- La televisión como indigna para un filósofo [[theodor adorno]]
 - La «filosofía de» la moneda en general y la «filosofía de» una moneda en particular (condición crónica)
 - Ideas características de la música
 - Abstracción del contenido en los libros en tanto libros
-- Las nociones nomotéticas e ideográficas en Windelband
+- Las nociones nomotéticas e ideográficas en [[wilhelm windelband]]
 - Contenidos de la filosofía de la música (definiciones de filosofía de la música)
 - Todo el mundo es músico
 - La «filosofía de la afinación del cuarteto en el tercer movimiento»
 - Uso popular de la palabra filosofía como taxonómico, aforismos aislados y no teorías
-- Filosofía de la música de Napoleón «música como menos desagradable de los ruidos»
-- Filosofía de la música de Beethoven «la música como una revelación más alta que la filosofía»
+- Filosofía de la música de [[napoleón bonaparte]] «música como menos desagradable de los ruidos»
+- Filosofía de la música de [[ludwig van beethoven]] «la música como una revelación más alta que la filosofía»
 - Teoría como filosofía proposicional (teorías científicas, teoría teológica-dogmática, teorías filosóficas)
 - Determinación y catarsis
-- Bergson sobre Spinoza
-- Adorno y Schopenhauer
+- [[henri bergson]] sobre [[benedict spinoza]]
+- Adorno y [[arthur schopenhauer]]
 - «Filosofía de» como teoría filosófica-sistemática de la música desde un sistema en particular
 - Materialismo frente al monismo (Spinoza, «todo está relacionado con todo») y el idealismo
 - Platón frente al monismo continuista
@@ -73,24 +71,24 @@
 - La música como conexión racional inteligible
 - Distinción entre gnoseología y ontología
 - Crítica al dualismo alma y cuerpo, sentidos y entendimiento
-- Alma y cuerpo en Galeno
-- El problema de la etología (razonamientos de los animales no humanos)
+- Alma y cuerpo en [[galeno]]
+- El problema de la [[etología]] (razonamientos de los animales no humanos)
 - La dicotomía de Kant sobre las formas a priori espacio y tiempo
 - La música como ciencia en el Quadrivium
-- Gnoseología y ontología
+- [[gnoseología]] y [[ontología]]
 - La teoría de la gravitación y los métodos de la Física
 - Clasificación gnoseológica fundamental:
   1. Teorías filosóficas sobre la música de orientación positivista
   2. Teorías filosóficas sobre la música de orientación metafísica (Pseudo-Dionisio)
   3. Teorías de la música filosófico-positivas
 - Música como «la organización totalmente sistemática y conceptual de los fenómenos sonoros»
-- Música como «todo aquello que cae bajo las disciplinas del arte musical» (Definición de física de Eddington)
+- Música como «todo aquello que cae bajo las disciplinas del arte musical» (Definición de física de [[arthur eddington]]
 - Música como «orden universal que empieza por la armonía de las esferas»
 - Música como «expresión de la divinidad» y la iconoclasia en el arte plástico musulmán
 - Teorías subjetualistas y objetualistas de la música (fenómenos subjetuales, fenómenos objetuales desligados del sujeto, subjetualismo y subjetivismo)
 - Teorías complejas
 - Subjetualidad y objetualidad
-- Lecciones de clavecín de Diderot
+- Lecciones de clavecín de [[denis diderot]]
 ### 2
 - Ciencia y filosofía definidas por sus relaciones recíprocas
 - Aproximación gnoseológica de la filosofía de la música
@@ -100,32 +98,32 @@
 - Artes paratéticas y Artes Bellas
 - Dualismo ciencia-música en Baumgarten
 - Interpretación aristotélica de los sentidos
-- Dualismo de Descartes como Dualismo Ontológico, no Gnoseológico
+- Dualismo de [[rené descartes]] como Dualismo Ontológico, no Gnoseológico
 - Tesis del automatismo de las bestias
-- Berkeley y Malebranche «perspectiva católica y protestante con respecto a la sensibilidad-inteligencia de los animales»
+- [[george berkeley]] y [[nicolas malebranche]] «perspectiva católica y protestante con respecto a la sensibilidad-inteligencia de los animales»
 - Las pasiones cartesianas (la admiración, el apetito, el amor, el odio, la tristeza, la alegría)
 - Delibes y la teoría de las pasiones cartesianas
-- Premisas cartesianas en la teoría de la armonía de Rameau
+- Premisas cartesianas en la teoría de la armonía de [[jean philippe rameau]]
 - Distinción racional-raciomorfo
-- Razonamientos inconscientes en Leibniz
+- Razonamientos inconscientes en [[gottfried wilhelm leibniz]]
 - Estética en dos plantas de Baumgarten pasa íntegramente a Kant
 - La distinción entre la gnoseología inferior y la superior pasa a la estética trascendental (espacio y tiempo) y la lógica trascendental (categorías como parte analítica e ideas de Dios, alma, y mundo como parte dialéctica)
 - La crítica del juicio como teoría del arte
 - El formalismo de Kant
 - La música como forma de conocimiento vista desde la gnoseología superior
 - La música puede ser una forma de conocimiento que se parezca a la filosofía
-- La identidad filosófico-musical en el Fedón
+- La identidad filosófico-musical en el [[fedón]]
 - El progreso como escalera positiva en Condorcet
-- La evolución como evolutio poetarum aplicada a la especie (abstracta que procede de sensible) en Spencer y Darwin
+- La evolución como evolutio poetarum aplicada a la especie (abstracta que procede de sensible) en [[herbert spencer]] y [[charles darwin]]
 - La procedencia del mundo en Kant (El cofre de la novia)
 - Las ideas más abstractas están siempre vinculadas a experiencias concretas de carácter físico y operatorio
 - La ciencia-filosofía de la música está en función de lo que se entienda por estética superior e inferior
-- La filosofía de la música como previa a la filosofía en general (idea de armonía en Platón y Pitágoras) 
-- Armadura y armonía (Homero, Empédocles, Heráclito)
-- Heráclito como pensador musical frente a Parménides
-- Tylor y los instrumentos de arco
-- La armonía y la exposición en términos matemáticos (doctrina pitagórica de Filolao a Platón)
-- El bajo fundamental en Rameau y Euler (Cartas a la apreciada Alemania)
+- La filosofía de la música como previa a la filosofía en general (idea de armonía en [[platón]] y [[pitágoras]]) 
+- Armadura y armonía ([[homero]], [[empédocles]], [[heráclito]])
+- Heráclito como pensador musical frente a [[parménides]]
+- [[edward burnett tylor]] y los instrumentos de arco
+- La armonía y la exposición en términos matemáticos (doctrina pitagórica de [[filolao]] a Platón)
+- El bajo fundamental en Rameau y [[leonhard euler]] (Cartas a la apreciada Alemania)
 - La armonía como idea que procede de la música
 - Posibilidad de que la idea de filosofía y metafísica venga de la música
 - Arquitectura-arquitectónica como precedente de la idea de estructura
