@@ -622,7 +622,7 @@
 - Lenguaje y música como términos análogos
 - El concepto de analogía de desigualdad en Gaetano
 - Traducción en música (Comentarios de Schumann a la romanza sin palabras de [[felix mendelssohn]])
-- Metonimia y metáfora en Jakobson
+- Metonimia y metáfora en [[roman jakobson]]
 - Importancia social de la música académica versus la música popular
 - La cuestión de la lingüística en [[nikolai marr]] y [[joseph stalin]]
 - Lenguaje escrito y música escrita
@@ -649,7 +649,7 @@
 - Canto de trabajo, subordinación de la música al oficio
 - Unión hipostática entre música y lenguaje ([[oratorio]])
 - Música instrumental y polifonía como origen de la separación entre música y lenguaje
-- Crítica a la polifonía de Vincenzo Galilei
+- Crítica a la polifonía de [[vincenzo galilei]]
 - Polifonía-instrumentalidad como muestra de la independencia-emancipación de la música con respecto al lenguaje
 - Texto y escala en el [[himno de san juan]] de Guido D'Arezzo
 - Visión catastrofista, vínculo entre instrumentalidad y atonalidad
