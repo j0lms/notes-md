@@ -270,7 +270,7 @@
 - Acepciones principales del ser en Aristóteles (Sustancia y Dios)
 - Negación de la química en tanto ciencia en Comte
 - La ausencia de la teología en las  Disputaciones Metafísicas de Suárez
-- El ser en general en [[gustavo de Mendoza]] «sobre si el ser es unívoco, análogo, o equívoco»
+- El ser en general en [[gustavo de mendoza]] «sobre si el ser es unívoco, análogo, o equívoco»
 - Aristóteles (analogía del ser, «el ser se dice de muchas maneras») contra [[jenófanes]] (escuela eleática, univocidad del ser)
 - Lógica de Hegel como Ontología
 - Ondas sinusoidales (escala lisológica) y timbres (escala morfológica)
