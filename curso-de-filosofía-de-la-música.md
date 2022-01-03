@@ -468,7 +468,7 @@
 - Involucración entre el análisis musical y literario, valoraciones musicales y literarias
 - La cuestión de la subordinación del texto a la música o vice versa ([[christoph willibald gluck]], [[wolfgang amadeus mozart]] en las cartas al padre, [[richard strauss]] sobre [[johann wolfgang von göthe]])
 - Los límites de las artes
-- Teorías psicológicas-psicoanalíticas ([[theodor reik]], teorías psicoanalíticas de la Sinfonía 2 y 8 de [[[gustav mahler]], [[alfred adler]] y [[sigmund freud]], Sobre [[karl abraham]]) y sociológicas de la música
+- Teorías psicológicas-psicoanalíticas ([[theodor reik]], teorías psicoanalíticas de la Sinfonía 2 y 8 de [[gustav mahler]], [[alfred adler]] y [[sigmund freud]], Sobre [[karl abraham]]) y sociológicas de la música
 - Implicaciones tonales del [[acorde de tristán]] (Origen del atonalismo)
 - La partitura y la narrativa
 - La disonancia y la revolución kepleriana
