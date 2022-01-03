@@ -234,10 +234,10 @@
 - Posibfilidad de una ciencia de la música capaz de englobarla 
 - Teorías filosóficas, científicas, y teológicas
 ### 3a
-- Acepciones antropológicas («filosofía de» como religión, mitología, mitos etiológicos, morales, cosmogonía, »Weltanschauung« «relativismo cultural», escepticismo, filosofía en sentido antropológico «de los antropólogos», la geometría es de todas las culturas, filosofía vinculada a las ciencias, característica positiva de la filosofía griega, respuesta mitológica ([[atlas]]) y filosófica ([[Anaximandro]]) a la pregunta «¿por qué la tierra no se cae?»)
+- Acepciones antropológicas («filosofía de» como religión, mitología, mitos etiológicos, morales, cosmogonía, »Weltanschauung« «relativismo cultural», escepticismo, filosofía en sentido antropológico «de los antropólogos», la geometría es de todas las culturas, filosofía vinculada a las ciencias, característica positiva de la filosofía griega, respuesta mitológica ([[atlas]]) y filosófica ([[anaximandro]]) a la pregunta «¿por qué la tierra no se cae?»)
 - Acepciones sociológicas («filosofía de» como filosofía mundana, corriente, «filosofía que todo el mundo tiene», esteticismo «la filosofía de cada cual vale lo mismo que otro», la filosofía de las tribus bantú, la filosofía de la música de Mazzini «la música mediterránea y la música germánica», la poética de la música de Stravinsky «relación entre orden y tiempo», [[doktor Faustus]] de [[thomas mann]] «música como ambigüedad hecha sistema», tradición académica)
 - Tratados de música y tratados de termodinámica
-- Las tres grandes Ideas de la metafísica de Wolff, Bacon, y Tomás de Aquino (Dios o absoluto, mundo o cosmos, Hombre o homo sapiens)
+- Las tres grandes Ideas de la metafísica de Wolff, [[francis bacon]], y [[tomás de aquino]] (Dios o absoluto, mundo o cosmos, Hombre o homo sapiens)
 - La música vista desde la perspectiva de Dios (Agustín de Hipona, [[gerónimo]], Hegel, [[martín lutero]], Ansermet «pérdida de la ley tonal como muerte de Dios»)
 - La música vista desde la perspectiva del mundo (Pitagóricos, Filolao «música como expresión de la armonía del universo», [[johannes kepler]], Aristóteles y la crítica a la idea de música de las esferas, [[friedrich schelling]])
 - La música vista desde la perspectiva del hombre (Adorno sobre Beethoven «la música como expresión del hombre», crítica a la filosofía de la música de [[juan david garcía bacca]] «de la palabra hombre en el credo de las misas», Schoenberg «revelación de una forma de vida más elevada de la humanidad»)
