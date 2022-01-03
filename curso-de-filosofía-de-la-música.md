@@ -348,7 +348,7 @@
     11. La Verdad de la Música no es la Verdad Científica
   - La Evasión del Cromatismo y las relaciones Verdaderas y Falsas
   - La Orquesta Solipcista de Adorno
-  - La no-verdad y la Recepción de la Música Atonal
+  - La no-verdad y la [[recepción de la música atonal]]
   - Verdad Positiva y Verdad Diamérica
   - Música como despliegue de la Verdad
   - Espíritu de la Obra como Contenido de Verdad
