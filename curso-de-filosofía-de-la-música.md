@@ -74,7 +74,7 @@
   - Alma y cuerpo en [[galeno]]
   - El problema de la [[etología]] (razonamientos de los animales no humanos)
   - La dicotomía de Kant sobre las formas a priori espacio y tiempo
-  - La música como ciencia en el Quadrivium
+  - La música como ciencia en el [[quadrivium]]
   - [[gnoseología]] y [[ontología]]
   - La teoría de la gravitación y los métodos de la Física
   - Clasificación gnoseológica fundamental:
