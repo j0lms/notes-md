@@ -3,15 +3,15 @@
 ### 1a
 - «Todo filósofo es un músico fracasado» [[rudolf carnap]]
 - Todo el mundo es filósofo
-- La música como catarsis-purga [[aristóteles]]
+- La música como [[catarsis]]-purga [[aristóteles]]
 - 12 Cuestiones sin respuesta:
   1. Cuestión proemial
   2. Cuestión general de implantación
   3. Cuestión particular de implantación
-  4. Cuestión de la semanticidad o asemanticidad
+  4. Cuestión de la [[semanticidad]] o asemanticidad
   5. Cuestión de la involucración de la música con otras categorías
   6. Cuestión de la racionalidad de las artes
-  7. Cuestión de la unidad entre los géneros musicales y de su jerarquía
+  7. Cuestión de la unidad entre los [[géneros musicales]] y de su jerarquía
   8. Cuestión del universalismo o particularismo de la música
   9. Cuestión de la [[tonalidad]]
   10. Cuestión del reduccionismo de las estructuras musicales a determinadas estructuras sociológicas-políticas-superestructurales
@@ -30,7 +30,7 @@
 - Escolástica de Salamanca y de [[christian wolff]]
 - Definición escolástica de la religión como «conjunto de relaciones que vinculan al hombre con Dios»
 - Las justicia desde la perspectiva aretaica
-- La creencia en Dios en el ancien régime
+- La creencia en Dios en el [[ancien régime]]
 - La física social de [[auguste comte]]
 - La idea del estado-nación en la filosofía de la música de [[giuseppe mazzini]]
 - La idea de lo [[bello en música]]
@@ -66,7 +66,7 @@
 - «Filosofía de» como teoría filosófica-sistemática de la música desde un sistema en particular
 - Materialismo frente al monismo (Spinoza, «todo está relacionado con todo») y el idealismo
 - Platón frente al monismo continuista
-- Pluralismo racionalista
+- [[pluralismo racionalista]]
 - Monismos teológicos y materiales
 - La música como conexión racional inteligible
 - Distinción entre gnoseología y ontología
@@ -102,12 +102,12 @@
 - Tesis del automatismo de las bestias
 - [[george berkeley]] y [[nicolás malebranche]] «perspectiva católica y protestante con respecto a la sensibilidad-inteligencia de los animales»
 - Las pasiones cartesianas (la admiración, el apetito, el amor, el odio, la tristeza, la alegría)
-- Delibes y la teoría de las pasiones cartesianas
+- [[léo delibes]] y la teoría de las pasiones cartesianas
 - Premisas cartesianas en la teoría de la armonía de [[jean philippe rameau]]
 - Distinción racional-raciomorfo
 - Razonamientos inconscientes en [[gottfried wilhelm leibniz]]
 - Estética en dos plantas de Baumgarten pasa íntegramente a Kant
-- La distinción entre la gnoseología inferior y la superior pasa a la estética trascendental (espacio y tiempo) y la lógica trascendental (categorías como parte analítica e ideas de Dios, alma, y mundo como parte dialéctica)
+- La distinción entre la gnoseología inferior y la superior pasa a la [[estética trascendental]] (espacio y tiempo) y la [[lógica trascendental]] (categorías como parte analítica e ideas de Dios, alma, y mundo como parte dialéctica)
 - La crítica del juicio como teoría del arte
 - El formalismo de Kant
 - La música como forma de conocimiento vista desde la gnoseología superior
@@ -119,11 +119,11 @@
 - Las ideas más abstractas están siempre vinculadas a experiencias concretas de carácter físico y operatorio
 - La ciencia-filosofía de la música está en función de lo que se entienda por estética superior e inferior
 - La filosofía de la música como previa a la filosofía en general (idea de armonía en [[platón]] y [[pitágoras]]) 
-- Armadura y armonía ([[homero]], [[empédocles]], [[heráclito]])
+- [[armadura]] y [[armonía]] ([[homero]], [[empédocles]], [[heráclito]])
 - Heráclito como pensador musical frente a [[parménides]]
 - [[edward burnett tylor]] y los instrumentos de arco
 - La armonía y la exposición en términos matemáticos (doctrina pitagórica de [[filolao]] a Platón)
-- El bajo fundamental en Rameau y [[leonhard euler]] (Cartas a la apreciada Alemania)
+- El [[bajo fundamental]] en Rameau y [[leonhard euler]] ([[cartas a la apreciada alemania]])
 - La armonía como idea que procede de la música
 - Posibilidad de que la idea de filosofía y metafísica venga de la música
 - Arquitectura-arquitectónica como precedente de la idea de estructura
@@ -169,19 +169,19 @@
 - La filosofía y la ciencia entendidas según el esquema de la yuxtaposición
 - [[severino boecio]] y [[guido d'arezzo]] «no hace falta saber filosofía para tocar un instrumento»
 - La filosofía y la ciencia de una época como expresión de la religión de una época
-- Tesis de Crombie sobre el desarrollo de la ciencia en un fondo cristiano
+- Tesis de [[alistair cameron crombie]] sobre el desarrollo de la ciencia en un fondo cristiano
 - Estancamiento de la ciencia islámica
-- La teoría de decadencia del occidente de [[oswald spengler]], cultura como superorganismos (cultura antigua, cultura mágica, decadencia de la cultura fáustica)
+- La teoría de decadencia del occidente de [[oswald spengler]], cultura como superorganismos ([[cultura antigua]], [[cultura mágica]], decadencia de la [[cultura fáustica]])
 -  Las culturas como organismos tienen tejidos independientes unas de las otras
 - Cada cultura produce sus órganos propios, música como creación de la cultura fáustica, arquitectura como arte de la cultura antigua
 - La ciencia moderna es expresión de la cultura fáustica
-- Esquema de reducción de la ciencia a la filosofía (reducción de la ciencia de la música a filosofía de la música, La crisis de la ciencia europea de [[edmund husserl]])
-- Europa como filosofía griega y ciencia
+- Esquema de reducción de la ciencia a la filosofía (reducción de la ciencia de la música a filosofía de la música, [[la crisis de la ciencia europea]] de [[edmund husserl]])
+- [[europa]] como [[filosofía griega]] y [[ciencia]]
 - La filosofía como ciencia primera rigurosa
 - Al margen de la filosofía, la ciencia es una técnica mecánica sin sentido
 - Al margen de la filosofía, la música es una técnica mecánica que tampoco tiene sentido
 - Todo músico o todo científico tiene que tener una filosofía, de lo contrario es un autómata
-- La reducción de la filosofía a la ciencia (Positivismo, círculo de Viena)
+- La reducción de la filosofía a la ciencia ([[positivismo]], [[círculo de viena]])
 - Reducción de la filosofía al análisis lógico del lenguaje, carácter asemántico de la música (Carnap)
 - [[tractatus logico philosophicus]] de [[ludwig wittgenstein]] como asemántico
 - La idea de la relación de involucración diamérica (vinculación de las ideas filosóficas con la ciencia)
@@ -205,9 +205,9 @@
 - Sobre la dualidad del campo de las ciencias de la música
 - El campo musical
 - Música vocal y música instrumental (ciencias vocales o ciencias instrumentales)
-- Música occidental y música oriental
-- Música académica y música pop
-- Música culta
+- [[música occidental]] y [[música oriental]]
+- [[música académica]] y [[música pop]]
+- [[música culta]]
 - Dualidad distributiva que se distribuye a través de cada una de las morfologías concretas de la música (afecta tanto a la música vocal como la instrumental, occidental a la oriental, etc.)
 - Incomunicabilidad de los géneros, inconmensurabilidad de la diagonal con el lado del cuadrado en Platón
 - Matemática atomística (teoría de conjuntos) y Matemática continuista (topología)
@@ -223,22 +223,22 @@
 - Distinción transversal del campo científico a la música
 - Perspectiva o momento activo y receptivo del campo de la música
 - La perspectiva activa incluye los instrumentos, los intérpretes, y al compositor
-- Alberti y la analogía con la arquitectura
+- [[leon battista alberti]] y la analogía con la arquitectura
 - Disociación entre el compositor y la orquesta como ley estructural interna, no alienación
 - División de la categoría musical en mitades inconmensurables
 - La relación o correlación supone la simultaneidad entre los términos
 - Acción y pasión en Aristóteles
 - Correspondencia entre pasiones y emociones con la música
-- Arte e improvisación
+- [[arte]] e [[improvisación]]
 - Prólogo de [[introduction to schenkerian analysis]] de [[allen forte]] y [[steven gilbert]]
 - Posibfilidad de una ciencia de la música capaz de englobarla 
 - Teorías filosóficas, científicas, y teológicas
 ### 3a
 - Acepciones antropológicas («filosofía de» como religión, mitología, mitos etiológicos, morales, cosmogonía, »Weltanschauung« «relativismo cultural», escepticismo, filosofía en sentido antropológico «de los antropólogos», la geometría es de todas las culturas, filosofía vinculada a las ciencias, característica positiva de la filosofía griega, respuesta mitológica ([[atlas]]) y filosófica ([[anaximandro]]) a la pregunta «¿por qué la tierra no se cae?»)
-- Acepciones sociológicas («filosofía de» como filosofía mundana, corriente, «filosofía que todo el mundo tiene», esteticismo «la filosofía de cada cual vale lo mismo que otro», la filosofía de las tribus bantú, la filosofía de la música de Mazzini «la música mediterránea y la música germánica», la poética de la música de Stravinsky «relación entre orden y tiempo», [[doktor Faustus]] de [[thomas mann]] «música como ambigüedad hecha sistema», tradición académica)
+- Acepciones sociológicas («filosofía de» como filosofía mundana, corriente, «filosofía que todo el mundo tiene», esteticismo «la filosofía de cada cual vale lo mismo que otro», la filosofía de las tribus bantú, la filosofía de la música de Mazzini «la [[música mediterránea]] y la [[música germánica]]», la [[poética de la música]] de Stravinsky «relación entre orden y tiempo», [[doktor Faustus]] de [[thomas mann]] «música como ambigüedad hecha sistema», tradición académica)
 - Tratados de música y tratados de termodinámica
 - Las tres grandes Ideas de la metafísica de Wolff, [[francis bacon]], y [[tomás de aquino]] (Dios o absoluto, mundo o cosmos, Hombre o homo sapiens)
-- La música vista desde la perspectiva de Dios (Agustín de Hipona, [[gerónimo]], Hegel, [[martín lutero]], Ansermet «pérdida de la ley tonal como muerte de Dios»)
+- La música vista desde la perspectiva de Dios (Agustín de Hipona, [[gerónimo]], Hegel, [[martín lutero]], [[ernest ansermet]] «pérdida de la ley tonal como muerte de Dios»)
 - La música vista desde la perspectiva del mundo (Pitagóricos, Filolao «música como expresión de la armonía del universo», [[johannes kepler]], Aristóteles y la crítica a la idea de música de las esferas, [[friedrich schelling]])
 - La música vista desde la perspectiva del hombre (Adorno sobre Beethoven «la música como expresión del hombre», crítica a la filosofía de la música de [[juan david garcía bacca]] «de la palabra hombre en el credo de las misas», Schoenberg «revelación de una forma de vida más elevada de la humanidad»)
 - Modulación de la expresión «filosofía de la música» en sentido estricto
@@ -505,7 +505,7 @@
 - La melodía como discurso sucesivo
 - La reforma de Glück
 - La música como acompañamiento
-- La identidad lingüístico-musical en el hombre primitivo y la disociación entre el lenguaje y la música
+- La [[identidad lingüístico-musical]] en el hombre primitivo y la disociación entre el lenguaje y la música
 - La interpretación mecánica y el sentimiento
 - El armonismo de [[karl krause]] «música como colaboración mediante el sonido del Entendimiento, la Voluntad, y el Sentimiento»
 - Interpretación psicologista de la obra musical (la recepción del público)
@@ -525,8 +525,8 @@
 - La música como representación de sí misma
 - La relación entre sonidos no es un sonido
 - La percepción supone el entendimiento
-- Anamnesis y prolepsis, inconvenientes de la música atonal-atemática
-- Agnosia y tiempo presente
+- [[anamnesis]] y [[prolepsis]], inconvenientes de la música atonal-atemática
+- [[agnosia]] y tiempo presente
 ### 8b
 - El lenguaje no es un término unívoco
 - El lenguaje como homónimo (Categorías de Aristóteles)
@@ -620,7 +620,7 @@
 - Crítica como clasificación
 - Correspondencias aceptables y no aceptables entre lenguaje y música según el criterio de isomorfismo
 - Lenguaje y música como términos análogos
-- El concepto de analogía de desigualdad en Gaetano
+- El concepto de analogía de desigualdad en [[tomás cayetano]]
 - Traducción en música (Comentarios de Schumann a la romanza sin palabras de [[felix mendelssohn]])
 - Metonimia y metáfora en [[roman jakobson]]
 - Importancia social de la música académica versus la música popular
