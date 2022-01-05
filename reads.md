@@ -12,7 +12,7 @@
     - [[the precipice]]
   - [[richard dawkins]]
     - [[the selfish gene]]
-  - [[christopher alexander]]
+  - [[christopher alexander]] [[murray silverstein]] [[sara ishikawa]]
     - [ ] [[a pattern language]]
   - [[roger penrose]]
      - [[the road to reality]]
