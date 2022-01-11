@@ -111,7 +111,7 @@
   - [[mihaly csikszentmihalyi]]
     - [[flow]] 
   - [[cormac mccarthy]]
-    - [[blood meridian]]
+    - [ ] [[blood meridian]]
   - [[stephen platt]]
     - [[autumn in the heavenly kingdom]]
   - [[nick bostrom]]
