@@ -179,6 +179,8 @@
     - [[music and the ineffable]]
   - [[johan huizinga]]
     - [[homo ludens]]
+  - [[victor zuckerkandl]]
+    - [[sound and symbol]]
 
 - legend
   - [ ] in progress 
