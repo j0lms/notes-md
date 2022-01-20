@@ -1,2 +1,1 @@
-- [[j0lms]]
-  - [[digital garden]]
+- A [[digital garden]]

@@ -1,1 +1,2 @@
+- [[wikilinks]]
 - [[go]] https://www.connectionsbyfinsa.com/digital-gardens/
