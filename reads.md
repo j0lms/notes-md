@@ -181,6 +181,8 @@
     - [[homo ludens]]
   - [[victor zuckerkandl]]
     - [[sound and symbol]]
+  - [[peter drucker]]
+    - [[post-capitalist society]]
 
 - legend
   - [ ] in progress 
