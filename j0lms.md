@@ -1,6 +1,6 @@
 - A [[j0lms]]
   - [[person]] [[composer]]
-  - [[contact]] https://jorgeolmos.pythonanywhere.com/contact
+  - [[contact]] https://j0lms.pythonanywhere.com/contact
   - [[twitter]] https://twitter.com/j0lms
   - [[mastodon]] https://mastodon.social/@j0lms
   - [[github]] https://github.com/j0lms
