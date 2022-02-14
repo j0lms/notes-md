@@ -1,4 +1,5 @@
-- [[j0lms]]
+- A [[digital garden]] in [[an agora]]
+- [[author]] [[j0lms]]
     - [[go/j0lms/digital-garden]]
     - [[go/j0lms/contact]]
     - [[go/j0lms/twitter]]
