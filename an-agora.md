@@ -1,2 +1,2 @@
 - An [[agora]]
-    - [[agoras]]
+    - [[pull]] [[agoras]]
