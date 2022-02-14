@@ -1,1 +1,10 @@
-Hello everyone, I'm [[j0lms]]. This is my [[digital garden]], an experiment in note-taking and collaboration.
+- [[j0lms]]
+    - [[j0lms/digital-garden]]
+    - [[j0lms/contact]]
+    - [[j0lms/twitter]]
+    - [[j0lms/mastodon]]
+    - [[j0lms/github]]
+    - [[j0lms/codeberg]]
+    - [[j0lms/soundcloud]]
+    - [[j0lms/duolingo]]
+    - [[j0lms/lichess]]
