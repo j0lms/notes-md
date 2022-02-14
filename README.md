@@ -1,3 +1,5 @@
+# README
+
 - A [[digital garden]] in [[an agora]]
     - [[author]] [[j0lms]]
         - [[go/j0lms/digital-garden]]
