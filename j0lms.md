@@ -5,6 +5,7 @@
   - [[mastodon]] https://mastodon.social/@j0lms
   - [[github]] https://github.com/j0lms
   - [[codeberg]] https://codeberg.org/j0lms
+  - [[digital garden]] https://codeberg.org/j0lms/notes-md/
   - [[telegram]] @j0lms
   - [[matrix]] @j0lms:matrix.org
   - [[discord]] j0lms#8968
