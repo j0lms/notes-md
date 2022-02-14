@@ -1,5 +1,5 @@
 - [[j0lms]]
-    - [[go/j0lms/digital garden]]
+    - [[go/j0lms/digital-garden]]
     - [[go/j0lms/contact]]
     - [[go/j0lms/twitter]]
     - [[go/j0lms/mastodon]]
