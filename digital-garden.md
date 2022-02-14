@@ -4,4 +4,3 @@
   - [[knowledge commons]]
   - [[digital commons]]
   - [[working in public]]
-  - [[go]] https://codeberg.org/j0lms/notes-md/
