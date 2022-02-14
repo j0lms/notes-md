@@ -1,6 +1,6 @@
 - A [[j0lms]]
-  - [[person]] [[composer]]
-  - [[contact]] https://jorgeolmos.pythonanywhere.com/contact
+  - [[person]] [[composer]] [[developer]]
+  - [[contact]] https://j0lms.com/contact
   - [[twitter]] https://twitter.com/j0lms
   - [[mastodon]] https://mastodon.social/@j0lms
   - [[github]] https://github.com/j0lms
@@ -9,3 +9,5 @@
   - [[matrix]] @j0lms:matrix.org
   - [[discord]] j0lms#8968
   - [[soundcloud]] https://soundcloud.com/j0lms
+  - [[duolingo]] https://www.duolingo.com/profile/j0lms
+  - [[lichess]] https://lichess.org/@/j0lms

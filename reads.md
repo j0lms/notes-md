@@ -159,6 +159,8 @@
     - [[zen and the art of motorcycle maintenance]]
   - [[henry jenkins]]
     - [[convergence culture]]
+  - [[pedagogy of the oppressed]]
+    - [[paulo freire]]
   - [[john lynch]]
     - [[simón bolívar]]
   - [[philip kindred dick]]
