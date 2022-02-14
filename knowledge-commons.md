@@ -1,3 +1,5 @@
+# Knowledge commons
+
 - A part of the [[commons]]
     - [[collective ownership]]
     - [[collective intelligence]]

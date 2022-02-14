@@ -1,3 +1,5 @@
+# Oops is the sound we make
+
 - A [[quote]]
   - [[book]] [[rationality from ai to zombies]]
   - [[the sequences]]

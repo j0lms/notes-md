@@ -1,1 +1,3 @@
+# Based
+
 - [[antithesis]] of [[cringe]]

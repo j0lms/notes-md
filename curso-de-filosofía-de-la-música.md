@@ -1,3 +1,5 @@
+# Curso de filosofía de la música
+
 - Un [[curso]]
   - [[autor]] [[gustavo bueno]]
   - 1a

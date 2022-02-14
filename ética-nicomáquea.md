@@ -1,3 +1,5 @@
+# Ética Nicomáquea
+
 - Un [[libro]]
   - [[autor]] [[aristóteles]]
   - [[ética aretaica]]

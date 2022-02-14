@@ -1,3 +1,5 @@
+# Meditations on Moloch
+
 - An [[essay]]
     - [[author]] [[scott alexander]]
     - [[transhumanism]]

@@ -1,3 +1,5 @@
+# Seeing like a State
+
 - A [[book]]
   - [[author]] [[james scott]]
   - [[high modernism]]

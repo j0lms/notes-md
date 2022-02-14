@@ -1,0 +1,1 @@
+# Objects conceive other objects in capitalism
